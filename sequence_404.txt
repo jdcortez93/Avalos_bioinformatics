@@ -1,0 +1,113 @@
+Processing /Users/RBKothadia/Documents/code/avalos-bioinformatics/fasta_dumps/15_ilvD_E.coli.fa fasta.
+-------------------------------
+404. Sequence for UPI00144A5C43 was not found. Skipping.
+404. Sequence for UPI00144A8442 was not found. Skipping.
+dup. Target A0A0G4NG38 has already been processed and added.
+dup. Target A0A1V9ZWG4 has already been processed and added.
+404. Sequence for UPI00094EA94D was not found. Skipping.
+dup. Target A0A2U1MVY4 has already been processed and added.
+dup. Target A0A536GIU1 has already been processed and added.
+404. Sequence for UPI0009846617 was not found. Skipping.
+404. Sequence for UPI0013E2096E was not found. Skipping.
+404. Sequence for UPI00144756D4 was not found. Skipping.
+404. Sequence for UPI0013EB63A8 was not found. Skipping.
+404. Sequence for UPI000E312A99 was not found. Skipping.
+404. Sequence for UPI0004186FB6 was not found. Skipping.
+404. Sequence for UPI0013701BA4 was not found. Skipping.
+404. Sequence for UPI001297608D was not found. Skipping.
+404. Sequence for UPI0013798C3B was not found. Skipping.
+404. Sequence for UPI0012FCF11A was not found. Skipping.
+404. Sequence for UPI0012657176 was not found. Skipping.
+404. Sequence for UPI0006BBA04E was not found. Skipping.
+404. Sequence for UPI000DE303CA was not found. Skipping.
+404. Sequence for UPI001058D2CF was not found. Skipping.
+404. Sequence for UPI00057B979A was not found. Skipping.
+404. Sequence for UPI0012FBA93A was not found. Skipping.
+404. Sequence for UPI00136CD52A was not found. Skipping.
+404. Sequence for UPI000F8CE9D3 was not found. Skipping.
+404. Sequence for UPI00131D7F07 was not found. Skipping.
+404. Sequence for UPI0012F91BFB was not found. Skipping.
+404. Sequence for UPI0004148AA5 was not found. Skipping.
+404. Sequence for UPI000C1C93E7 was not found. Skipping.
+404. Sequence for UPI00136B3592 was not found. Skipping.
+404. Sequence for UPI000646B31D was not found. Skipping.
+404. Sequence for UPI0012BB5953 was not found. Skipping.
+404. Sequence for UPI0013D60BC4 was not found. Skipping.
+404. Sequence for UPI000255A4F1 was not found. Skipping.
+404. Sequence for UPI0005579D69 was not found. Skipping.
+404. Sequence for UPI00128B6EA9 was not found. Skipping.
+404. Sequence for UPI0011F2B2B3 was not found. Skipping.
+404. Sequence for UPI0010A02510 was not found. Skipping.
+404. Sequence for UPI00046974B4 was not found. Skipping.
+404. Sequence for UPI0012EB0FF5 was not found. Skipping.
+404. Sequence for UPI0002E4C1CD was not found. Skipping.
+404. Sequence for UPI00071DD36E was not found. Skipping.
+404. Sequence for UPI001370FDF9 was not found. Skipping.
+404. Sequence for UPI0013740001 was not found. Skipping.
+404. Sequence for UPI000E3DD4CF was not found. Skipping.
+404. Sequence for UPI000E2FE5A2 was not found. Skipping.
+404. Sequence for UPI00135E27D2 was not found. Skipping.
+404. Sequence for UPI0009EA4012 was not found. Skipping.
+404. Sequence for UPI000169B21B was not found. Skipping.
+404. Sequence for UPI00084A91DC was not found. Skipping.
+404. Sequence for UPI00117994A7 was not found. Skipping.
+404. Sequence for UPI000DBD9105 was not found. Skipping.
+404. Sequence for UPI00136C81A8 was not found. Skipping.
+404. Sequence for UPI000C228843 was not found. Skipping.
+404. Sequence for UPI00036625F3 was not found. Skipping.
+404. Sequence for A0A3S1LAG1 was not found. Skipping.
+dup. Target A0A4Q3QZ34 has already been processed and added.
+404. Sequence for A0A0A1P528 was not found. Skipping.
+404. Sequence for UPI0004DFB4CF was not found. Skipping.
+404. Sequence for UPI000A1D23F5 was not found. Skipping.
+404. Sequence for UPI00084BB92F was not found. Skipping.
+404. Sequence for UPI000354FE54 was not found. Skipping.
+dup. Target A0A2T4BSB5 has already been processed and added.
+404. Sequence for A0A0A1P774 was not found. Skipping.
+404. Sequence for A0A0C7CD12 was not found. Skipping.
+404. Sequence for A0A4Q3X275 was not found. Skipping.
+404. Sequence for UPI001177972F was not found. Skipping.
+404. Sequence for UPI0009D715D6 was not found. Skipping.
+404. Sequence for UPI0013776000 was not found. Skipping.
+404. Sequence for UPI000CD9C715 was not found. Skipping.
+404. Sequence for A0A4S2HZH6 was not found. Skipping.
+404. Sequence for UPI00053C8EAA was not found. Skipping.
+404. Sequence for UPI000C9D6206 was not found. Skipping.
+404. Sequence for UPI00063ACF47 was not found. Skipping.
+404. Sequence for A0A656PJT6 was not found. Skipping.
+404. Sequence for A0A226XZ37 was not found. Skipping.
+Total Duplicates removed: 6
+Total Skipped: 70
+-------------------------------
+Processing /Users/RBKothadia/Documents/code/avalos-bioinformatics/fasta_dumps/14_ilvC_E.coli.fa fasta.
+-------------------------------
+404. Sequence for UPI00048D5855 was not found. Skipping.
+404. Sequence for UPI00135B474F was not found. Skipping.
+404. Sequence for UPI000B34D63B was not found. Skipping.
+404. Sequence for UPI0003F9E6FA was not found. Skipping.
+404. Sequence for UPI00132C253D was not found. Skipping.
+404. Sequence for UPI000B3C7A11 was not found. Skipping.
+404. Sequence for UPI0003A72D31 was not found. Skipping.
+404. Sequence for UPI0012BD1264 was not found. Skipping.
+404. Sequence for UPI000487D282 was not found. Skipping.
+404. Sequence for UPI0013BCD99A was not found. Skipping.
+404. Sequence for UPI000837099F was not found. Skipping.
+404. Sequence for UPI0003796849 was not found. Skipping.
+404. Sequence for A0A4U1A4Y5 was not found. Skipping.
+404. Sequence for UPI0010594F77 was not found. Skipping.
+404. Sequence for UPI0011865A71 was not found. Skipping.
+404. Sequence for A0A379EHF5 was not found. Skipping.
+404. Sequence for UPI0005AB913E was not found. Skipping.
+404. Sequence for UPI00141F3312 was not found. Skipping.
+404. Sequence for UPI000CD95E6B was not found. Skipping.
+404. Sequence for UPI000EF714E2 was not found. Skipping.
+404. Sequence for UPI001124E3F2 was not found. Skipping.
+404. Sequence for UPI000200CBFD was not found. Skipping.
+404. Sequence for A0A379EHE3 was not found. Skipping.
+404. Sequence for A0A484Z421 was not found. Skipping.
+404. Sequence for UPI000719D4C5 was not found. Skipping.
+404. Sequence for UPI001269956B was not found. Skipping.
+404. Sequence for UPI000B2C3907 was not found. Skipping.
+Total Duplicates removed: 0
+Total Skipped: 27
+-------------------------------
