@@ -1,0 +1,8 @@
+bash clean_xmls.sh 
+bash step_4_get_xmls_wrapper.sh /Users/RBKothadia/Documents/code/avalos-bioinformatics/target_lists/
+python3 step_5_get_genes_organism.py -x /Users/RBKothadia/Documents/code/avalos-bioinformatics/xml_dumps/
+python3 step_6_refactor_fastas.py > sequence_404.txt 
+python3 step_7_filter_refactored.py -j trimmed_by_jc/JC_14__ilvC_E.coli_refactored.fa -r refactored_fasta_dumps/14_ilvC_E.coli_refactored.fa > refactored_fasta_dumps/trim.log 
+python3 step_7_filter_refactored.py -j trimmed_by_jc/JC_15_ilvD_E.coli_refactored.fa -r refactored_fasta_dumps/15_ilvD_E.coli_refactored.fa >> refactored_fasta_dumps/trim.log 
+python3 step_8_generate_table.py 
+history | cut -c 8- > cmds

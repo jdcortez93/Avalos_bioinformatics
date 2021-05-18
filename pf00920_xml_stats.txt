@@ -1,0 +1,8 @@
+XMLs present: 774
+XMLs absent: 0
+XMLs that should be there: 774
+XMLs present: 16377
+XMLs absent: 38
+XMLs that should be there: 16415
+Absent targets are here:
+/Users/RBKothadia/Documents/code/avalos-bioinformatics/xml_dumps/PF00920_full_targets_uniprot/absent_targets.txt
