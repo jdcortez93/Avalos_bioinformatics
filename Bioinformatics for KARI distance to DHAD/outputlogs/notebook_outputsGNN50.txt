@@ -1,0 +1,139 @@
+CSV file with unique IDs generated successfully.
+
+path changed to /Users/jeremydcortez/Bioconda_Playground/25-0214/001
+file input changed to /Users/jeremydcortez/Bioconda_Playground/25-0214/001/filtered_GNNgeneGraph0214_002.csv
+
+All DHADs are present in the GNN mapped list
+
+There are 14 genomes with more than 205 genes (likely each organism has multiple DHADs)
+
+CSV file generated successfully.
+
+All DHADs are present in the GNN mapped list.
+
+Found 401 DHADs
+Found 381 organisms with DHADs
+
+Found 25 KARIs in 25 different organisms when searched with ['IPR014359', 'IPR013023'].
+                                                 Genome      ID    Start  \
+151                                  Bacillus anthracis  Q81S27   577978   
+165       Bacillus cereus (strain ATCC 10987 / NRS 248)  Q73A47   623316   
+180                    Bacillus mycoides (strain KBAB4)  A9VPN6   583631   
+195            Bacillus thuringiensis (strain Al Hakam)  A0RCL2   591073   
+244                            Blochmanniella floridana  Q7VRM0   218514   
+249          Blochmanniella pennsylvanica (strain BPEN)  Q491Z2   243031   
+350   Buchnera aphidicola subsp. Cinara cedri (strai...  Q056W4   135413   
+553   Clostridium botulinum (strain Eklund 17B / Typ...  B2TIR4   107376   
+562                       Clostridium novyi (strain NT)  A0Q0E9   407880   
+568             Clostridium saccharobutylicum DSM 13864  U5MNR3    94125   
+707     Escherichia coli (strain K12 / MC4100 / BW2952)  C4ZZ44  1281887   
+722     Escherichia coli O157:H7 (strain EC4115 / EHEC)  B5YY23  1618171   
+974          Macrococcus caseolyticus (strain JCSC5402)  B9EBF4   313703   
+1210  Parvularcula bermudensis (strain ATCC BAA-594 ...  E0THN5   409556   
+1524  Sediminispirochaeta smaragdinae (strain DSM 11...  E1R5W8   573545   
+1662              Staphylococcus aureus (strain Newman)  A6QIQ2   724443   
+1734                Streptococcus suis (strain 98HAH33)  A4W3V8   594322   
+1814              Syntrophus aciditrophicus (strain SB)  Q2LXP7   995133   
+1844  Thermotoga maritima (strain ATCC 43589 / DSM 3...  Q9WZ20   192286   
+1851  Thermotoga petrophila (strain ATCC BAA-488 / D...  A5IJM5   119207   
+1856                        Thermotoga sp. (strain RQ2)  B1L8U5   125220   
+1858  Thermovirga lienii (strain ATCC BAA-1197 / DSM...  G7V5Y3    50104   
+1979               Yersinia pestis (strain Pestoides F)  A4TRD9  1339041   
+1986        Yersinia pestis bv. Antiqua (strain Angola)  A9R8G1   171324   
+1991  Yersinia pseudotuberculosis serotype IB (strai...  B2JZH8    57113   
+
+         Stop  Size (nt) Strand  \
+151    578314        334      +   
+165    623651        334      +   
+180    583968        336      +   
+195    591409        334      +   
+244    219007        491      -   
+249    243522        490      -   
+350    135904        489      -   
+553    107715        337      +   
+562    408212        330      +   
+568     94459        333      +   
+707   1282379        490      +   
+722   1618662        490      +   
+974    314034        329      -   
+1210   409896        339      -   
+1524   573882        335      +   
+1662   724777        333      +   
+1734   594663        339      -   
+1814   995482        347      +   
+1844   192623        335      +   
+1851   119544        335      -   
+1856   125557        335      -   
+1858    50441        335      -   
+1979  1339533        491      -   
+1986   171817        491      +   
+1991    57605        491      +   
+
+                                               Function  
+151   IlvC; IlvN; InterPro=IPR013023; IPR000506; IPR...  
+165   IlvC; IlvN; InterPro=IPR013023; IPR000506; IPR...  
+180   IlvC; IlvN; InterPro=IPR013023; IPR000506; IPR...  
+195   IlvC; IlvN; InterPro=IPR013023; IPR000506; IPR...  
+244   IlvC; IlvN; InterPro=IPR013328; IPR013023; IPR...  
+249   IlvC; IlvN; InterPro=IPR013328; IPR013023; IPR...  
+350   IlvC; IlvN; InterPro=IPR013328; IPR000506; IPR...  
+553   IlvC; IlvN; InterPro=IPR013023; IPR000506; IPR...  
+562   IlvC; IlvN; InterPro=IPR013023; IPR000506; IPR...  
+568   IlvC; IlvN; InterPro=IPR013023; IPR000506; IPR...  
+707   IlvC; IlvN; InterPro=IPR013328; IPR013023; IPR...  
+722   IlvC; IlvN; InterPro=IPR013328; IPR013023; IPR...  
+974   IlvC; IlvN; InterPro=IPR013023; IPR000506; IPR...  
+1210  IlvC; IlvN; InterPro=IPR013023; IPR000506; IPR...  
+1524  IlvC; IlvN; InterPro=IPR013023; IPR000506; IPR...  
+1662  IlvC; IlvN; InterPro=IPR013023; IPR000506; IPR...  
+1734  IlvC; IlvN; InterPro=IPR013023; IPR000506; IPR...  
+1814  IlvC; IlvN; InterPro=IPR013328; IPR000506; IPR...  
+1844  IlvC; IlvN; InterPro=IPR013023; IPR000506; IPR...  
+1851  IlvC; IlvN; InterPro=IPR013023; IPR000506; IPR...  
+1856  IlvC; IlvN; InterPro=IPR013023; IPR000506; IPR...  
+1858  IlvC; IlvN; InterPro=IPR013023; IPR000506; IPR...  
+1979  IlvC; IlvN; InterPro=IPR013328; IPR013023; IPR...  
+1986  IlvC; IlvN; InterPro=IPR013328; IPR013023; IPR...  
+1991  IlvC; IlvN; InterPro=IPR013328; IPR013023; IPR...  
+
+Found 25 KARIs in 25 different organisms.
+Found 25 DHADs with KARI in 25 different organisms.
+
+['Q81S26', 'Q9XBI3', 'A9VPN7', 'A0RCL3', 'Q7VRL8', 'Q491Z0', 'Q056W3', 'B2TIR2', 'A0Q0E8', 'U5MKI6', 'C4ZZ41', 'B5YY20', 'B9EBF6', 'E0THN6', 'E1R5W9', 'A6QIQ0', 'A4W3W3', 'Q2LXP6', 'Q9WZ21', 'A5IJM4', 'B1L8U4', 'G7V5Y5', 'A4TRE8', 'A9R8F3', 'B2JZH0']
+There are 25 DHADs to analyze.
+
+path changed to /Users/jeremydcortez/Bioconda_Playground/25-0214/001/fastafiles
+
+Wrote 25 sequences to fasta file.
+
+path changed to /Users/jeremydcortez/Bioconda_Playground/25-0214/001/fastafiles
+
+[0;31m---------------------------------------------------------------------------[0m
+[0;31mFileNotFoundError[0m                         Traceback (most recent call last)
+Cell [0;32mIn[16], line 43[0m
+[1;32m     41[0m notebook_path [38;5;241m=[39m home_path[38;5;241m+[39m[38;5;124m'[39m[38;5;124m/0214GNNsSearch.ipynb[39m[38;5;124m'[39m
+[1;32m     42[0m output_file_path [38;5;241m=[39m [38;5;124m'[39m[38;5;124mnotebook_outputs.txt[39m[38;5;124m'[39m
+[0;32m---> 43[0m [43mextract_outputs_to_text[49m[43m([49m[43mnotebook_path[49m[43m,[49m[43m [49m[43moutput_file_path[49m[43m)[49m
+
+Cell [0;32mIn[16], line 18[0m, in [0;36mextract_outputs_to_text[0;34m(notebook_path, output_file_path)[0m
+[1;32m     10[0m [38;5;28;01mdef[39;00m [38;5;21mextract_outputs_to_text[39m(notebook_path, output_file_path):
+[1;32m     11[0m [38;5;250m    [39m[38;5;124;03m"""[39;00m
+[1;32m     12[0m [38;5;124;03m    Extracts cell outputs from a Jupyter Notebook and saves them to a text file.[39;00m
+[1;32m     13[0m 
+[0;32m   (...)[0m
+[1;32m     16[0m [38;5;124;03m        output_file_path (str): Path to the output text file.[39;00m
+[1;32m     17[0m [38;5;124;03m    """[39;00m
+[0;32m---> 18[0m     [38;5;28;01mwith[39;00m [38;5;28;43mopen[39;49m[43m([49m[43mnotebook_path[49m[43m,[49m[43m [49m[38;5;124;43m'[39;49m[38;5;124;43mr[39;49m[38;5;124;43m'[39;49m[43m,[49m[43m [49m[43mencoding[49m[38;5;241;43m=[39;49m[38;5;124;43m'[39;49m[38;5;124;43mutf-8[39;49m[38;5;124;43m'[39;49m[43m)[49m [38;5;28;01mas[39;00m f:
+[1;32m     19[0m         nb [38;5;241m=[39m nbformat[38;5;241m.[39mread(f, as_version[38;5;241m=[39m[38;5;241m4[39m)
+[1;32m     21[0m     exporter [38;5;241m=[39m PythonExporter()
+
+File [0;32m~/opt/miniforge3/envs/JCsave/lib/python3.10/site-packages/IPython/core/interactiveshell.py:324[0m, in [0;36m_modified_open[0;34m(file, *args, **kwargs)[0m
+[1;32m    317[0m [38;5;28;01mif[39;00m file [38;5;129;01min[39;00m {[38;5;241m0[39m, [38;5;241m1[39m, [38;5;241m2[39m}:
+[1;32m    318[0m     [38;5;28;01mraise[39;00m [38;5;167;01mValueError[39;00m(
+[1;32m    319[0m         [38;5;124mf[39m[38;5;124m"[39m[38;5;124mIPython won[39m[38;5;124m'[39m[38;5;124mt let you open fd=[39m[38;5;132;01m{[39;00mfile[38;5;132;01m}[39;00m[38;5;124m by default [39m[38;5;124m"[39m
+[1;32m    320[0m         [38;5;124m"[39m[38;5;124mas it is likely to crash IPython. If you know what you are doing, [39m[38;5;124m"[39m
+[1;32m    321[0m         [38;5;124m"[39m[38;5;124myou can use builtins[39m[38;5;124m'[39m[38;5;124m open.[39m[38;5;124m"[39m
+[1;32m    322[0m     )
+[0;32m--> 324[0m [38;5;28;01mreturn[39;00m [43mio_open[49m[43m([49m[43mfile[49m[43m,[49m[43m [49m[38;5;241;43m*[39;49m[43margs[49m[43m,[49m[43m [49m[38;5;241;43m*[39;49m[38;5;241;43m*[39;49m[43mkwargs[49m[43m)[49m
+
+[0;31mFileNotFoundError[0m: [Errno 2] No such file or directory: '/Users/jeremydcortez/Bioconda_Playground/25-0214/001/0214GNNsSearch.ipynb'

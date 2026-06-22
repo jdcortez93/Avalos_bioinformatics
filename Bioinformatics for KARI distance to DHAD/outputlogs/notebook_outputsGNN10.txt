@@ -1,0 +1,41 @@
+CSV file with unique IDs generated successfully.
+
+path changed to /Users/jeremydcortez/Bioconda_Playground/25-0214/001
+file input changed to /Users/jeremydcortez/Bioconda_Playground/25-0214/001/filtered_GNNgeneGraph0214_002.csv
+
+All DHADs are present in the GNN mapped list
+
+There are 14 genomes with more than 205 genes (likely each organism has multiple DHADs)
+
+CSV file generated successfully.
+
+All DHADs are present in the GNN mapped list.
+
+Found 405 DHADs
+Found 381 organisms with DHADs
+
+Found 146 KARIs in 146 different organisms when searched with ['IPR014359', 'IPR013023'].
+
+Found 146 KARIs in 146 different organisms.
+Found 150 DHADs with KARI in 146 different organisms.
+
+Multiple DHADs found in Corynebacterium efficiens (strain DSM 44549 / YS-314 / AJ 12310 / JCM 11189/ NBRC 100395)
+DHAD: ['Q8FMR1', 'Q8FPX6']
+
+
+Multiple DHADs found in Nocardia farcinica (strain IFM 10152)
+DHAD: ['Q5YRV8', 'Q5YX61', 'Q5Z0M2']
+
+
+Multiple DHADs found in Staphylococcus saprophyticus subsp. saprophyticus (strain ATCC 15305 / DSM20229 / NCIMB 8711 / NCTC 7292 / S-41)
+DHAD: ['Q49UX2', 'Q49Z08']
+
+
+['A0LSR8', 'B5FCY6', 'A0JXZ9', 'B6YQV1', 'Q81S26', 'Q9XBI3', 'A9VPN7', 'A0RCL3', 'Q64PS6', 'Q8A608', 'Q7VRL8', 'Q491Z0', 'Q056W3', 'Q8RDJ9', 'Q3AER0', 'B3QMA2', 'Q8KER4', 'Q3APB9', 'B3EHP3', 'Q3B589', 'A1BES8', 'A4SFC2', 'B3QSP3', 'B5EHV2', 'A5CPY3', 'B0RIN3', 'B2TIR2', 'A0Q0E8', 'U5MKI6', 'Q47UN7', 'C3PFW7', 'Q6NHN6', 'Q8FMR1', 'Q8FPX6', 'A4QDM9', 'Q4JUN3', 'C4LJI1', 'Q3Z888', 'F0RJQ7', 'E1QDS5', 'B8FHH7', 'B8FU95', 'A8ZTQ7', 'C5BBA5', 'B1GYS7', 'A4WG37', 'B2VI72', 'C4ZZ41', 'Q8XAV1', 'B5YY20', 'B7LU82', 'A0A068NJC3', 'A6GWT7', 'F8E449', 'B0TZC0', 'A0Q6R5', 'Q39W79', 'C6E521', 'Q74BW7', 'B9M5B4', 'A5G7V6', 'A5UDY7', 'Q9K8E4', 'B8CX17', 'Q31I28', 'B5XZ01', 'Q1ILZ0', 'Q02139', 'E4RVQ1', 'Q6AEN9', 'Q92A32', 'Q8Y5S2', 'A0AK88', 'B9EBF6', 'Q5YRV8', 'Q5YX61', 'Q5Z0M2', 'A1SM84', 'Q8EN63', 'R5NU09', 'A6LDP0', 'E0THN6', 'Q6CZC7', 'C6DHH1', 'A1AS43', 'B4SDK2', 'A6L3E7', 'Q7MYJ5', 'B4F1U3', 'Q15MY9', 'A9WP05', 'Q2S0M3', 'A8M5F5', 'B5EZ28', 'Q57HU7', 'B5FN65', 'B5QVG2', 'B5RFT3', 'B4TB04', 'B4SZ17', 'C0Q2U8', 'B4TNS1', 'Q8Z377', 'P40810', 'E1R5W9', 'A8GL60', 'A1SAS5', 'Q12IN9', 'Q088M9', 'B0TJR3', 'A3Q9L6', 'Q8E9D9', 'A8GZD9', 'B8CHS0', 'A4YBI7', 'A8G0Z3', 'A0KS32', 'B1KQ88', 'B2TU20', 'Q329V0', 'Q0SYW3', 'Q3YVJ3', 'Q5WEM9', 'Q2NQA6', 'A6QIQ0', 'B9DMJ2', 'Q8CNL6', 'Q4L7T6', 'Q49UX2', 'Q49Z08', 'A4VXL9', 'A4W3W3', 'Q67KX6', 'Q2LXP6', 'D1B744', 'Q9WZ21', 'A5IJM4', 'B1L8U4', 'G7V5Y5', 'Q5SIY0', 'Q8KTS9', 'B3E5X8', 'Q83GP9', 'A5F497', 'Q8DDG1', 'A1JI53', 'A4TRE8', 'A9R8F3', 'B2JZH0', 'B1JQ32']
+There are 150 DHADs to analyze.
+
+path changed to /Users/jeremydcortez/Bioconda_Playground/25-0214/001/fastafiles
+
+Wrote 150 sequences to fasta file.
+
+path changed to /Users/jeremydcortez/Bioconda_Playground/25-0214/001/outputlogs

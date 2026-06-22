@@ -1,0 +1,29 @@
+CSV file with unique IDs generated successfully.
+
+path changed to /Users/jeremydcortez/Bioconda_Playground/25-0214/001
+file input changed to /Users/jeremydcortez/Bioconda_Playground/25-0214/001/filtered_GNNgeneGraph0214_002.csv
+
+All DHADs are present in the GNN mapped list
+
+There are 14 genomes with more than 205 genes (likely each organism has multiple DHADs)
+
+CSV file generated successfully.
+
+All DHADs are present in the GNN mapped list.
+
+Found 401 DHADs
+Found 381 organisms with DHADs
+
+Found 25 KARIs in 25 different organisms when searched with ['IPR014359', 'IPR013023'].
+
+Found 25 KARIs in 25 different organisms.
+Found 25 DHADs with KARI in 25 different organisms.
+
+['Q81S26', 'Q9XBI3', 'A9VPN7', 'A0RCL3', 'Q7VRL8', 'Q491Z0', 'Q056W3', 'B2TIR2', 'A0Q0E8', 'U5MKI6', 'C4ZZ41', 'B5YY20', 'B9EBF6', 'E0THN6', 'E1R5W9', 'A6QIQ0', 'A4W3W3', 'Q2LXP6', 'Q9WZ21', 'A5IJM4', 'B1L8U4', 'G7V5Y5', 'A4TRE8', 'A9R8F3', 'B2JZH0']
+There are 25 DHADs to analyze.
+
+path changed to /Users/jeremydcortez/Bioconda_Playground/25-0214/001/fastafiles
+
+Wrote 25 sequences to fasta file.
+
+path changed to /Users/jeremydcortez/Bioconda_Playground/25-0214/001/outputlogs
