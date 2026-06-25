@@ -1,0 +1,3502 @@
+{
+    "UniRef90_A0A6A5L8E3": {
+        "genes": "Lal_00014570",
+        "organisms": "Lupinus albus|White lupine|Lupinus termis"
+    },
+    "UniRef90_A0A6A5KZA2": {
+        "genes": "Lal_00009508",
+        "organisms": "Lupinus albus|White lupine|Lupinus termis"
+    },
+    "UniRef90_A0A1Q9DGX7": {
+        "genes": "ilvD|AK812_SmicGene23541",
+        "organisms": "Symbiodinium microadriaticum|Dinoflagellate|Zooxanthella microadriatica"
+    },
+    "UniRef90_A0A1R1PHF1": {
+        "genes": "AX774_g6145",
+        "organisms": "Zancudomyces culisetae|Gut fungus|Smittium culisetae"
+    },
+    "UniRef90_A0A438N6H8": {
+        "genes": "B0A52_04819",
+        "organisms": "Exophiala mesophila|Black yeast"
+    },
+    "UniRef90_A0A094E233": {
+        "genes": "V494_03165",
+        "organisms": "Pseudogymnoascus sp. VKM F-4513 (FW-928)"
+    },
+    "UniRef90_A0A261Y412": {
+        "genes": "BZG36_01556",
+        "organisms": "Bifiguratus adelaidae"
+    },
+    "UniRef90_A0A093ZT45": {
+        "genes": "V491_03667",
+        "organisms": "Pseudogymnoascus sp. VKM F-3775"
+    },
+    "UniRef90_M7N026": {
+        "genes": "ilvB|ilvD|ADICEAN_02830",
+        "organisms": "Cesiribacter andamanensis AMV16"
+    },
+    "UniRef90_A0A397H7A9": {
+        "genes": "CDV56_107669",
+        "organisms": "Aspergillus thermomutatus"
+    },
+    "UniRef90_A0A4V5NKL2": {
+        "genes": "B0A49_00308",
+        "organisms": "Cryomyces minteri"
+    },
+    "UniRef90_A0A433DAK7": {
+        "genes": "BC936DRAFT_145398",
+        "organisms": "Jimgerdemannia flammicorona"
+    },
+    "UniRef90_A0A3M7N9D4": {
+        "genes": "DV737_g1455",
+        "organisms": "Chaetothyriales sp. CBS 132003"
+    },
+    "UniRef90_A0A3M7MR06": {
+        "genes": "DV738_g4516",
+        "organisms": "Chaetothyriales sp. CBS 135597"
+    },
+    "UniRef90_A0A364KLY7": {
+        "genes": "BHQ10_000580",
+        "organisms": "Talaromyces amestolkiae"
+    },
+    "UniRef90_A0A3M7NXL5": {
+        "genes": "DV736_g1281",
+        "organisms": "Chaetothyriales sp. CBS 134916"
+    },
+    "UniRef90_A0A292Q5H1": {
+        "genes": "GSTUAT00001739001",
+        "organisms": "Tuber aestivum|summer truffle"
+    },
+    "UniRef90_R9P8I1": {
+        "genes": "PHSY_005153",
+        "organisms": "Pseudozyma hubeiensis (strain SY62)|Yeast"
+    },
+    "UniRef90_A0A1C7M1E2": {
+        "genes": "ilvD|A0H81_09029",
+        "organisms": "Grifola frondosa|Maitake|Polyporus frondosus"
+    },
+    "UniRef90_A0A2N1JDM7": {
+        "genes": "MVES_001785",
+        "organisms": "Malassezia vespertilionis"
+    },
+    "UniRef90_A0A2S6BQW0": {
+        "genes": "CBER1_04999",
+        "organisms": "Cercospora berteroae"
+    },
+    "UniRef90_V5FXI8": {
+        "genes": "PVAR5_1957",
+        "organisms": "Byssochlamys spectabilis (strain No. 5 / NBRC 109023)|Paecilomyces variotii"
+    },
+    "UniRef90_A0A409YS69": {
+        "genes": "CVT26_010137",
+        "organisms": "Gymnopilus dilepis"
+    },
+    "UniRef90_A0A137QUN2": {
+        "genes": "AN958_03068",
+        "organisms": "Leucoagaricus sp. SymC.cos"
+    },
+    "UniRef90_A0A284QLY0": {
+        "genes": "ARMOST_00714",
+        "organisms": "Armillaria ostoyae|Armillaria root rot fungus"
+    },
+    "UniRef90_A0A5B8ML00": {
+        "genes": "A3770_05p38160",
+        "organisms": "Chloropicon primus"
+    },
+    "UniRef90_A0A0G4NG38": {
+        "genes": "BN1723_006608",
+        "organisms": "Verticillium longisporum"
+    },
+    "UniRef90_A0A0G4L0E0": {
+        "genes": "BN1708_002744",
+        "organisms": "Verticillium longisporum"
+    },
+    "UniRef90_A0A135L8I1": {
+        "genes": "PGRI_041660",
+        "organisms": "Penicillium patulum|Penicillium griseofulvum"
+    },
+    "UniRef90_A0A0A2L906": {
+        "genes": "PITC_088780",
+        "organisms": "Penicillium italicum|Blue mold"
+    },
+    "UniRef90_A0A2Z6RZX9": {
+        "genes": "RclHR1_04630006",
+        "organisms": "Rhizophagus clarus"
+    },
+    "UniRef90_A0A366Q9L3": {
+        "genes": "FVER53263_07515",
+        "organisms": "Gibberella moniliformis|Maize ear and stalk rot fungus|Fusarium verticillioides"
+    },
+    "UniRef90_A0A5C6GMS6": {
+        "genes": "ED733_008023",
+        "organisms": "Metarhizium rileyi"
+    },
+    "UniRef90_A0A1V9ZWG4": {
+        "genes": "THRCLA_21437",
+        "organisms": "Thraustotheca clavata"
+    },
+    "UniRef90_A0A2P6U5L0": {
+        "genes": "C2E21_0494",
+        "organisms": "Chlorella sorokiniana|Freshwater green alga"
+    },
+    "UniRef90_A0A0F0IH28": {
+        "genes": "P875_00021406",
+        "organisms": "Aspergillus parasiticus (strain ATCC 56775 / NRRL 5862 / SRRC 143 / SU-1)"
+    },
+    "UniRef90_V5FVV3": {
+        "genes": "PVAR5_4853",
+        "organisms": "Byssochlamys spectabilis (strain No. 5 / NBRC 109023)|Paecilomyces variotii"
+    },
+    "UniRef90_A0A2E4TV57": {
+        "genes": "ilvD|CMA99_07580",
+        "organisms": "Euryarchaeota archaeon"
+    },
+    "UniRef90_A0A6A5P132": {
+        "genes": "Lal_00037409",
+        "organisms": "Lupinus albus|White lupine|Lupinus termis"
+    },
+    "UniRef90_A0A4T0GFF6": {
+        "genes": "E3P90_02359",
+        "organisms": "Wallemia ichthyophaga"
+    },
+    "UniRef90_A0A0B7JR78": {
+        "genes": "BN869_000003563_1",
+        "organisms": "Bionectria ochroleuca|Gliocladium roseum"
+    },
+    "UniRef90_A0A2U1MVY4": {
+        "genes": "CTI12_AA336810",
+        "organisms": "Artemisia annua|Sweet wormwood"
+    },
+    "UniRef90_E1ZPZ3": {
+        "genes": "CHLNCDRAFT_58991",
+        "organisms": "Chlorella variabilis|Green alga"
+    },
+    "UniRef90_A0A1Z5TLE1": {
+        "genes": "BTJ68_02599",
+        "organisms": "Hortaea werneckii EXF-2000"
+    },
+    "UniRef90_A0A5N6JRY3": {
+        "genes": "EYC80_006433",
+        "organisms": "Monilinia laxa"
+    },
+    "UniRef90_H0ESC2": {
+        "genes": "M7I_5601",
+        "organisms": "Glarea lozoyensis (strain ATCC 74030 / MF5533)"
+    },
+    "UniRef90_A0A0D1X029": {
+        "genes": "PV10_02796",
+        "organisms": "Exophiala mesophila|Black yeast"
+    },
+    "UniRef90_A0A2K3Q9D1": {
+        "genes": "TCAP_05886",
+        "organisms": "Tolypocladium capitatum"
+    },
+    "UniRef90_A0A135UZD9": {
+        "genes": "CSAL01_12849",
+        "organisms": "Colletotrichum salicis"
+    },
+    "UniRef90_A0A5N6KXY9": {
+        "genes": "FH972_024412",
+        "organisms": "Carpinus fangiana"
+    },
+    "UniRef90_A0A094ALY3": {
+        "genes": "V493_01961",
+        "organisms": "Pseudogymnoascus sp. VKM F-4281 (FW-2241)"
+    },
+    "UniRef90_A0A1E1KH08": {
+        "genes": "RCO7_00281",
+        "organisms": "Rhynchosporium commune"
+    },
+    "UniRef90_A0A4Y3WHS3": {
+        "genes": "ilvD|PHY01_05680",
+        "organisms": "Pseudonocardia hydrocarbonoxydans"
+    },
+    "UniRef90_A0A2V8G760": {
+        "genes": "ilvD|pheA|DMF85_04745",
+        "organisms": "Acidobacteria bacterium"
+    },
+    "UniRef90_A0A4T0QSQ5": {
+        "genes": "E3Q10_03373",
+        "organisms": "Wallemia mellicola"
+    },
+    "UniRef90_A0A0E4BW39": {
+        "genes": "ilvD|NK6_9350",
+        "organisms": "Bradyrhizobium diazoefficiens"
+    },
+    "UniRef90_A9V147": {
+        "genes": "32689",
+        "organisms": "Monosiga brevicollis|Choanoflagellate"
+    },
+    "UniRef90_A0A489FTT1": {
+        "genes": "ilvD|SAMEA897065_05174",
+        "organisms": "Clostridioides difficile|Peptoclostridium difficile"
+    },
+    "UniRef90_A0A538QBK4": {
+        "genes": "ilvD|E6J91_19015",
+        "organisms": "Deltaproteobacteria bacterium"
+    },
+    "UniRef90_A0A3M7DZP4": {
+        "genes": "D0864_11001",
+        "organisms": "Hortaea werneckii"
+    },
+    "UniRef90_A0A536GIU1": {
+        "genes": "ilvD|E6I26_03130",
+        "organisms": "Chloroflexi bacterium"
+    },
+    "UniRef90_A0A562UQT2": {
+        "genes": "ilvD|LX16_4768",
+        "organisms": "Stackebrandtia albiflava"
+    },
+    "UniRef90_Q3SFC9": {
+        "genes": "ilvD|Tbd_2730",
+        "organisms": "Thiobacillus denitrificans (strain ATCC 25259)"
+    },
+    "UniRef90_A0A1E4PVP4": {
+        "genes": "ilvD|ABT22_06920",
+        "organisms": "Thiobacillus sp. SCN 64-317"
+    },
+    "UniRef90_A0A1Q4GP32": {
+        "genes": "ilvD|BGP21_00460",
+        "organisms": "Thiobacillus sp. 65-29"
+    },
+    "UniRef90_A0A259EVY3": {
+        "genes": "ilvD|B7X93_03155",
+        "organisms": "Hydrogenophilales bacterium 17-61-9"
+    },
+    "UniRef90_A0A124E0X3": {
+        "genes": "ilvD|RMCB_5975",
+        "organisms": "Mycolicibacterium brisbanense"
+    },
+    "UniRef90_A0A0F8U7X3": {
+        "genes": "AOCH_004099",
+        "organisms": "Aspergillus ochraceoroseus"
+    },
+    "UniRef90_V5FSW9": {
+        "genes": "PVAR5_0266",
+        "organisms": "Byssochlamys spectabilis (strain No. 5 / NBRC 109023)|Paecilomyces variotii"
+    },
+    "UniRef90_A0A0L1IPV0": {
+        "genes": "ANOM_010516",
+        "organisms": "Aspergillus nomiae NRRL 13137"
+    },
+    "UniRef90_A0A3M6ZLS5": {
+        "genes": "D0867_05609|D0868_00450",
+        "organisms": "Hortaea werneckii"
+    },
+    "UniRef90_A0A0N1H6Z8": {
+        "genes": "AB675_5309",
+        "organisms": "Phialophora attinorum"
+    },
+    "UniRef90_A0A434W687": {
+        "genes": "EOA28_04470",
+        "organisms": "Mesorhizobium sp. M2A.F.Ca.ET.067.02.1.1"
+    },
+    "UniRef90_A0A2V2SF83": {
+        "genes": "ilvD|C5B50_10185",
+        "organisms": "Verrucomicrobia bacterium"
+    },
+    "UniRef90_A0A173MLK9": {
+        "genes": "ilvD|SAMN05421788_114107",
+        "organisms": "Filimonas lacunae"
+    },
+    "UniRef90_A0A077KFP3": {
+        "genes": "ilvD|CHSO_1540",
+        "organisms": "Chryseobacterium sp. StRB126"
+    },
+    "UniRef90_A6GWT7": {
+        "genes": "ilvD|FP0449",
+        "organisms": "Flavobacterium psychrophilum (strain ATCC 49511 / DSM 21280 / CIP 103535 / JIP02/86)"
+    },
+    "UniRef90_A2TXH7": {
+        "genes": "ilvD|MED152_10210",
+        "organisms": "Polaribacter sp. MED152"
+    },
+    "UniRef90_A0A397IKQ8": {
+        "genes": "Glove_213g49",
+        "organisms": "Diversispora epigaea"
+    },
+    "UniRef90_A0A0G4H720": {
+        "genes": "Vbra_10711",
+        "organisms": "Vitrella brassicaformis (strain CCMP3155)"
+    },
+    "UniRef90_A0A086SZV1": {
+        "genes": "ACRE_066310",
+        "organisms": "Acremonium chrysogenum (strain ATCC 11550 / CBS 779.69 / DSM 880 / JCM 23072 / IMI 49137)"
+    },
+    "UniRef90_A0A518C5I8": {
+        "genes": "ilvD_2|ilvD|Pan97_15010",
+        "organisms": "Bremerella volcania"
+    },
+    "UniRef90_A0A397VA66": {
+        "genes": "C2G38_2016274",
+        "organisms": "Gigaspora rosea"
+    },
+    "UniRef90_A0A1E4T575": {
+        "genes": "CANARDRAFT_6386",
+        "organisms": "[Candida] arabinofermentans NRRL YB-2248"
+    },
+    "UniRef90_A0A421JQE6": {
+        "genes": "JA1_002338",
+        "organisms": "Spathaspora sp. JA1"
+    },
+    "UniRef90_A0A1X2GSH6": {
+        "genes": "DM01DRAFT_1333007",
+        "organisms": "Hesseltinella vesiculosa"
+    },
+    "UniRef90_A0A068RTJ0": {
+        "genes": "LCOR_04702.1",
+        "organisms": "Lichtheimia corymbifera JMRC:FSU:9682"
+    },
+    "UniRef90_A0A0A0L6U0": {
+        "genes": "Csa_3G133100",
+        "organisms": "Cucumis sativus|Cucumber"
+    },
+    "UniRef90_A0A2T4B261": {
+        "genes": "BBK36DRAFT_1181868",
+        "organisms": "Trichoderma citrinoviride"
+    },
+    "UniRef90_G4MKI2": {
+        "genes": "MGG_05345",
+        "organisms": "Magnaporthe oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958)|Rice blast fungus|Pyricularia oryzae"
+    },
+    "UniRef90_A0A1E4TR67": {
+        "genes": "PACTADRAFT_4200",
+        "organisms": "Pachysolen tannophilus NRRL Y-2460"
+    },
+    "UniRef90_A0A498JZL3": {
+        "genes": "DVH24_000692",
+        "organisms": "Malus domestica|Apple|Pyrus malus"
+    },
+    "UniRef90_A0A1G4JLB9": {
+        "genes": "LADA_0F09802G",
+        "organisms": "Lachancea dasiensis"
+    },
+    "UniRef90_J3NXL0": {
+        "genes": "20346474|GGTG_06016",
+        "organisms": "Gaeumannomyces tritici (strain R3-111a-1)|Wheat and barley take-all root rot fungus|Gaeumannomyces graminis var. tritici"
+    },
+    "UniRef90_A0A1G4M755": {
+        "genes": "LAFE_0A07426G",
+        "organisms": "Lachancea fermentati|Zygosaccharomyces fermentati"
+    },
+    "UniRef90_W3WSW8": {
+        "genes": "PFICI_10788",
+        "organisms": "Pestalotiopsis fici (strain W106-1 / CGMCC3.15140)"
+    },
+    "UniRef90_H3GB83": {
+        "genes": "",
+        "organisms": "Phytophthora ramorum|Sudden oak death agent"
+    },
+    "UniRef90_A0A507DR17": {
+        "genes": "ILV3|PhCBS80983_g06234",
+        "organisms": "Powellomyces hirtus"
+    },
+    "UniRef90_A0A4R6XRA7": {
+        "genes": "ilvD|C8D91_1498",
+        "organisms": "Marinicella litoralis"
+    },
+    "UniRef90_G8Y0H6": {
+        "genes": "Piso0_004812|GNLVRS01_PISO0N01685g",
+        "organisms": "Pichia sorbitophila (strain ATCC MYA-4447 / BCRC 22081 / CBS 7064 / NBRC 10061 / NRRL Y-12695)|Hybrid yeast"
+    },
+    "UniRef90_A0A481UJA7": {
+        "genes": "DHAD",
+        "organisms": "Hevea brasiliensis|Para rubber tree|Siphonia brasiliensis"
+    },
+    "UniRef90_A0A1R1PG12": {
+        "genes": "AX774_g6661",
+        "organisms": "Zancudomyces culisetae|Gut fungus|Smittium culisetae"
+    },
+    "UniRef90_A0A2G5BAQ8": {
+        "genes": "COEREDRAFT_81734",
+        "organisms": "Coemansia reversa (strain ATCC 12441 / NRRL 1564)"
+    },
+    "UniRef90_B2B590": {
+        "genes": "PODANS_2_3890",
+        "organisms": "Podospora anserina (strain S / ATCC MYA-4624 / DSM 980 / FGSC 10383)|Pleurage anserina"
+    },
+    "UniRef90_R1EHF1": {
+        "genes": "UCRNP2_6335",
+        "organisms": "Botryosphaeria parva (strain UCR-NP2)|Grapevine canker fungus|Neofusicoccum parvum"
+    },
+    "UniRef90_A0A163J3Q1": {
+        "genes": "ABSGL_02461.1",
+        "organisms": ""
+    },
+    "UniRef90_A0A512UJF0": {
+        "genes": "JCM33374_g4868",
+        "organisms": "Metschnikowia sp. JCM 33374"
+    },
+    "UniRef90_B9GMG3": {
+        "genes": "POPTR_001G051700",
+        "organisms": "Populus trichocarpa|Western balsam poplar|Populus balsamifera subsp. trichocarpa"
+    },
+    "UniRef90_A4RUR5": {
+        "genes": "OSTLU_34354",
+        "organisms": "Ostreococcus lucimarinus (strain CCE9901)"
+    },
+    "UniRef90_A0A0C7N3Y6": {
+        "genes": "LALA0_S06e01002g",
+        "organisms": "Lachancea lanzarotensis"
+    },
+    "UniRef90_A0A0D2D7I2": {
+        "genes": "PV06_08904",
+        "organisms": "Exophiala oligosperma"
+    },
+    "UniRef90_A0A1Q3CQ05": {
+        "genes": "CFOL_v3_25664",
+        "organisms": "Cephalotus follicularis|Albany pitcher plant"
+    },
+    "UniRef90_W7TJB0": {
+        "genes": "Naga_100014g23",
+        "organisms": "Nannochloropsis gaditana"
+    },
+    "UniRef90_A0A4P6XQB1": {
+        "genes": "MPUL0C04440|METSCH_C04440",
+        "organisms": "Metschnikowia aff. pulcherrima"
+    },
+    "UniRef90_G0W836": {
+        "genes": "NDAI0C02870|NDAI_0C02870",
+        "organisms": "Naumovozyma dairenensis (strain ATCC 10597 / BCRC 20456 / CBS 421 / NBRC 0211 / NRRL Y-12639)|Saccharomyces dairenensis"
+    },
+    "UniRef90_A0A2R5GRI7": {
+        "genes": "FCC1311_074742",
+        "organisms": "Hondaea fermentalgiana"
+    },
+    "UniRef90_A0A2R6S0S6": {
+        "genes": "CEY00_Acc00259",
+        "organisms": "Actinidia chinensis var. chinensis|Chinese soft-hair kiwi"
+    },
+    "UniRef90_A0A1E3NT85": {
+        "genes": "PICMEDRAFT_70473",
+        "organisms": "Pichia membranifaciens NRRL Y-2026"
+    },
+    "UniRef90_B6K5X3": {
+        "genes": "SJAG_04098",
+        "organisms": "Schizosaccharomyces japonicus (strain yFS275 / FY16936)|Fission yeast"
+    },
+    "UniRef90_G8BNS9": {
+        "genes": "TPHA0A04820|TPHA_0A04820",
+        "organisms": "Tetrapisispora phaffii (strain ATCC 24235 / CBS 4417 / NBRC 1672 / NRRL Y-8282 / UCD 70-5)|Yeast|Fabospora phaffii"
+    },
+    "UniRef90_A0A1G4K1K6": {
+        "genes": "LANO_0E15984G",
+        "organisms": "Lachancea nothofagi CBS 11611"
+    },
+    "UniRef90_A0A1U7LJK5": {
+        "genes": "NEOLI_001708",
+        "organisms": "Neolecta irregularis (strain DAH-3)"
+    },
+    "UniRef90_A0A168BBM5": {
+        "genes": "AAP_01566",
+        "organisms": "Ascosphaera apis ARSEF 7405"
+    },
+    "UniRef90_A0A1Y1I7Q9": {
+        "genes": "KFL_002030090",
+        "organisms": "Klebsormidium nitens|Green alga|Ulothrix nitens"
+    },
+    "UniRef90_A0A3F3RYW5": {
+        "genes": "ATCC64974_109890|CAN33_0039080",
+        "organisms": "Aspergillus niger"
+    },
+    "UniRef90_A0A061SD79": {
+        "genes": "ILVD|TSPGSL018_9724",
+        "organisms": "Tetraselmis sp. GSL018"
+    },
+    "UniRef90_A0A3N4KKP1": {
+        "genes": "P167DRAFT_329275",
+        "organisms": "Morchella conica CCBAS932"
+    },
+    "UniRef90_A0A507C2V3": {
+        "genes": "ILV3|SmJEL517_g02073",
+        "organisms": "Synchytrium microbalum"
+    },
+    "UniRef90_B8M7R3": {
+        "genes": "TSTA_030580",
+        "organisms": "Talaromyces stipitatus (strain ATCC 10500 / CBS 375.48 / QM 6759 / NRRL 1006)|Penicillium stipitatum"
+    },
+    "UniRef90_A0A2G3CHU1": {
+        "genes": "BC332_13974",
+        "organisms": "Capsicum chinense|Scotch bonnet|Bonnet pepper"
+    },
+    "UniRef90_A0A3M7J157": {
+        "genes": "D0859_04472",
+        "organisms": "Hortaea werneckii"
+    },
+    "UniRef90_B9H085": {
+        "genes": "POPTR_003G176600",
+        "organisms": "Populus trichocarpa|Western balsam poplar|Populus balsamifera subsp. trichocarpa"
+    },
+    "UniRef90_A0A077WP57": {
+        "genes": "LRAMOSA09849",
+        "organisms": "Lichtheimia ramosa"
+    },
+    "UniRef90_A0A2J6K9P4": {
+        "genes": "LSAT_6X63381",
+        "organisms": "Lactuca sativa|Garden lettuce"
+    },
+    "UniRef90_A0A443HU10": {
+        "genes": "C8Q69DRAFT_445246",
+        "organisms": "Byssochlamys spectabilis|Paecilomyces variotii"
+    },
+    "UniRef90_I1C5D1": {
+        "genes": "RO3G_08366",
+        "organisms": "Rhizopus delemar (strain RA 99-880 / ATCC MYA-4621 / FGSC 9543 / NRRL 43880)|Mucormycosis agent|Rhizopus arrhizus var. delemar"
+    },
+    "UniRef90_A0A1E5RYJ1": {
+        "genes": "AWRI3580_g915",
+        "organisms": "Hanseniaspora uvarum|Yeast|Kloeckera apiculata"
+    },
+    "UniRef90_A0A3A2Z7L9": {
+        "genes": "PHISCL_08572",
+        "organisms": "Aspergillus sclerotialis"
+    },
+    "UniRef90_A0A1L9SJS4": {
+        "genes": "ASPZODRAFT_132296",
+        "organisms": "Penicilliopsis zonata CBS 506.65"
+    },
+    "UniRef90_A0A5C3E4F1": {
+        "genes": "UTRI_03776",
+        "organisms": "Ustilago trichophora"
+    },
+    "UniRef90_A0A1E7FZZ8": {
+        "genes": "EDD1|FRACYDRAFT_274061",
+        "organisms": "Fragilariopsis cylindrus CCMP1102"
+    },
+    "UniRef90_A0A5C3EVT6": {
+        "genes": "PSFLO_01431",
+        "organisms": "Anthracocystis flocculosa"
+    },
+    "UniRef90_I2G077": {
+        "genes": "UHOR_04683",
+        "organisms": "Ustilago hordei (strain Uh4875-4)|Barley covered smut fungus"
+    },
+    "UniRef90_L1JRM8": {
+        "genes": "GUITHDRAFT_157264",
+        "organisms": "Guillardia theta (strain CCMP2712)|Cryptophyte"
+    },
+    "UniRef90_A0A0C9YWS6": {
+        "genes": "PISMIDRAFT_109672",
+        "organisms": "Pisolithus microcarpus 441"
+    },
+    "UniRef90_A0A507DGW7": {
+        "genes": "ILV3|SeLEV6574_g00663",
+        "organisms": "Synchytrium endobioticum"
+    },
+    "UniRef90_A0A5C3QKR3": {
+        "genes": "BDV98DRAFT_565700",
+        "organisms": "Pterula gracilis"
+    },
+    "UniRef90_A0A4U7KMI5": {
+        "genes": "EX895_005632",
+        "organisms": "Sporisorium graminicola"
+    },
+    "UniRef90_A0A164TVB7": {
+        "genes": "DCAR_031519",
+        "organisms": "Daucus carota subsp. sativus|Carrot"
+    },
+    "UniRef90_S8EJI8": {
+        "genes": "FOMPIDRAFT_1139423",
+        "organisms": "Fomitopsis pinicola (strain FP-58527)|Brown rot fungus"
+    },
+    "UniRef90_E3KGZ6": {
+        "genes": "PGTG_09284",
+        "organisms": "Puccinia graminis f. sp. tritici (strain CRL 75-36-700-3 / race SCCL)|Black stem rust fungus"
+    },
+    "UniRef90_A0A077R4L2": {
+        "genes": "",
+        "organisms": "Melanopsichium pennsylvanicum 4"
+    },
+    "UniRef90_A0A2D4CDR7": {
+        "genes": "PINS_011712",
+        "organisms": "Pythium insidiosum|Pythiosis disease agent"
+    },
+    "UniRef90_A0A2V0NPN7": {
+        "genes": "Rsub_02294",
+        "organisms": "Raphidocelis subcapitata"
+    },
+    "UniRef90_F0YIV0": {
+        "genes": "AURANDRAFT_54952",
+        "organisms": "Aureococcus anophagefferens|Harmful bloom alga"
+    },
+    "UniRef90_A0A166WEN8": {
+        "genes": "FIBSPDRAFT_943463",
+        "organisms": "Fibularhizoctonia sp. CBS 109695"
+    },
+    "UniRef90_G7E2A5": {
+        "genes": "Mo03639|E5Q_03639",
+        "organisms": "Mixia osmundae (strain CBS 9802 / IAM 14324 / JCM 22182 / KY 12970)"
+    },
+    "UniRef90_A0A165GQI9": {
+        "genes": "LAESUDRAFT_343961",
+        "organisms": "Laetiporus sulphureus 93-53"
+    },
+    "UniRef90_A0A1Y2ETC4": {
+        "genes": "BCR35DRAFT_306630",
+        "organisms": "Leucosporidium creatinivorum"
+    },
+    "UniRef90_A0A2B4R522": {
+        "genes": "ilvD|AWC38_SpisGene24203",
+        "organisms": "Stylophora pistillata|Smooth cauliflower coral"
+    },
+    "UniRef90_A0A2H3JNG5": {
+        "genes": "WOLCODRAFT_25914",
+        "organisms": "Wolfiporia cocos (strain MD-104)|Brown rot fungus"
+    },
+    "UniRef90_A0A165JKW6": {
+        "genes": "EXIGLDRAFT_766587",
+        "organisms": "Exidia glandulosa HHB12029"
+    },
+    "UniRef90_A0A0C9VP41": {
+        "genes": "M422DRAFT_257177",
+        "organisms": "Sphaerobolus stellatus (strain SS14)"
+    },
+    "UniRef90_A0A2E5D537": {
+        "genes": "ilvD|CMN06_05145",
+        "organisms": "Roseibacillus sp."
+    },
+    "UniRef90_A0A3N4L1L0": {
+        "genes": "P167DRAFT_266725",
+        "organisms": "Morchella conica CCBAS932"
+    },
+    "UniRef90_A0A1E3IFK9": {
+        "genes": "L203_03632",
+        "organisms": "Cryptococcus depauperatus CBS 7841"
+    },
+    "UniRef90_A0A2G8S7L1": {
+        "genes": "GSI_08155",
+        "organisms": "Ganoderma sinense ZZ0214-1"
+    },
+    "UniRef90_A0A2T6DBA9": {
+        "genes": "ilvD|DB346_18030",
+        "organisms": "Verrucomicrobia bacterium LW23"
+    },
+    "UniRef90_A0A2E7KYM5": {
+        "genes": "ilvD|CMO36_05955",
+        "organisms": "Verrucomicrobiaceae bacterium"
+    },
+    "UniRef90_A0A433PB32": {
+        "genes": "BC937DRAFT_93425",
+        "organisms": "Endogone sp. FLAS-F59071"
+    },
+    "UniRef90_A0A5C2RN33": {
+        "genes": "L227DRAFT_558105",
+        "organisms": "Lentinus tigrinus ALCF2SS1-6"
+    },
+    "UniRef90_A0A2E4ACN9": {
+        "genes": "ilvD|CMO38_08380",
+        "organisms": "Verrucomicrobiaceae bacterium"
+    },
+    "UniRef90_A0A0C2TG95": {
+        "genes": "M378DRAFT_444997",
+        "organisms": "Amanita muscaria Koide BX008"
+    },
+    "UniRef90_A0A651HH25": {
+        "genes": "ilvD|EA425_01515",
+        "organisms": "Puniceicoccaceae bacterium"
+    },
+    "UniRef90_G4T779": {
+        "genes": "PIIN_11906",
+        "organisms": "Serendipita indica (strain DSM 11827)|Root endophyte fungus|Piriformospora indica"
+    },
+    "UniRef90_A0A4Y5R903": {
+        "genes": "IlvD",
+        "organisms": "Adineta vaga|Rotifer|Callidina vaga"
+    },
+    "UniRef90_A8QAI2": {
+        "genes": "MGL_3741",
+        "organisms": "Malassezia globosa (strain ATCC MYA-4612 / CBS 7966)|Dandruff-associated fungus"
+    },
+    "UniRef90_A0A4V5NBT2": {
+        "genes": "B0A53_04895",
+        "organisms": "Rhodotorula sp. CCFEE 5036"
+    },
+    "UniRef90_A0A0E9NSB4": {
+        "genes": "G7K_6854-t1",
+        "organisms": "Saitoella complicata (strain BCRC 22490 / CBS 7301 / JCM 7358 / NBRC 10748 / NRRL Y-17804)"
+    },
+    "UniRef90_A0A1H2H3X3": {
+        "genes": "ilvD|SAMN05444156_2946",
+        "organisms": "Verrucomicrobium sp. GAS474"
+    },
+    "UniRef90_A0A2S4VCQ3": {
+        "genes": "PSHT_10029",
+        "organisms": "Puccinia striiformis"
+    },
+    "UniRef90_A0A5E7NRU3": {
+        "genes": "ilvD_2|ilvD|ilvD_1|PS843_04745|PS922_00692",
+        "organisms": "Pseudomonas fluorescens"
+    },
+    "UniRef90_F0RJQ7": {
+        "genes": "ilvD|Deipr_0363",
+        "organisms": "Deinococcus proteolyticus (strain ATCC 35074 / DSM 20540 / JCM 6276 / NBRC 101906 / NCIMB 13154 / VKM Ac-1939 / CCM 2703 / MRP)"
+    },
+    "UniRef90_A0A316VA44": {
+        "genes": "FA14DRAFT_165121",
+        "organisms": "Meira miltonrushii"
+    },
+    "UniRef90_A0A165FFT7": {
+        "genes": "EXIGLDRAFT_650617",
+        "organisms": "Exidia glandulosa HHB12029"
+    },
+    "UniRef90_A0A067MT31": {
+        "genes": "BOTBODRAFT_29146",
+        "organisms": "Botryobasidium botryosum FD-172 SS1"
+    },
+    "UniRef90_I4YG96": {
+        "genes": "WALSEDRAFT_43890",
+        "organisms": "Wallemia mellicola (strain ATCC MYA-4683 / CBS 633.66)|Wallemia sebi (CBS 633.66)"
+    },
+    "UniRef90_A0A2V1BPC6": {
+        "genes": "DL98DRAFT_602243",
+        "organisms": "Cadophora sp. DSE1049"
+    },
+    "UniRef90_A0A1T4WLX6": {
+        "genes": "ilvD|SAMN02745166_00499",
+        "organisms": "Prosthecobacter debontii"
+    },
+    "UniRef90_A0A3M6QGA5": {
+        "genes": "ilvD|EBQ25_02335",
+        "organisms": "Comamonadaceae bacterium NML161473"
+    },
+    "UniRef90_A0A6A6CMW9": {
+        "genes": "M409DRAFT_53071",
+        "organisms": "Zasmidium cellare ATCC 36951"
+    },
+    "UniRef90_A0A0F8V647": {
+        "genes": "ARAM_003262",
+        "organisms": "Aspergillus rambellii"
+    },
+    "UniRef90_A0A4U0TXM8": {
+        "genes": "B0A54_16674",
+        "organisms": "Friedmanniomyces endolithicus"
+    },
+    "UniRef90_A0A2J6Q754": {
+        "genes": "NA56DRAFT_748457",
+        "organisms": "Hyaloscypha hepaticicola"
+    },
+    "UniRef90_A0A2E7FM60": {
+        "genes": "ilvD|CMI17_06050",
+        "organisms": "Opitutaceae bacterium"
+    },
+    "UniRef90_A0A084GD52": {
+        "genes": "SAPIO_CDS2053",
+        "organisms": "Pseudallescheria apiosperma|Scedosporium apiospermum"
+    },
+    "UniRef90_A0A0S6XI82": {
+        "genes": "ANO11243_033790",
+        "organisms": "fungal sp. No.11243"
+    },
+    "UniRef90_A0A1J5SYA6": {
+        "genes": "ilvD_3|GALL_53790",
+        "organisms": "mine drainage metagenome"
+    },
+    "UniRef90_A0A127FBQ2": {
+        "genes": "ilvD|ACG33_08125",
+        "organisms": "Steroidobacter denitrificans"
+    },
+    "UniRef90_A0A0U3T331": {
+        "genes": "ilvD",
+        "organisms": "uncultured bacterium 51"
+    },
+    "UniRef90_A0A6A6HFV1": {
+        "genes": "EV356DRAFT_498322",
+        "organisms": "Viridothelium virens"
+    },
+    "UniRef90_W9W3R4": {
+        "genes": "A1O7_03791",
+        "organisms": "Cladophialophora yegresii CBS 114405"
+    },
+    "UniRef90_A0A136IUN0": {
+        "genes": "Micbo1qcDRAFT_150611",
+        "organisms": "Microdochium bolleyi"
+    },
+    "UniRef90_A0A2W1ES02": {
+        "genes": "Ptr86124_04534|PtrARCrB10_09080|PtrM4_05106|PtrV1_05892",
+        "organisms": "Pyrenophora tritici-repentis"
+    },
+    "UniRef90_A0A6A6P3S3": {
+        "genes": "BDY21DRAFT_284337",
+        "organisms": "Lineolata rhizophorae"
+    },
+    "UniRef90_A3CR42": {
+        "genes": "ilvD|SSA_2286",
+        "organisms": "Streptococcus sanguinis (strain SK36)"
+    },
+    "UniRef90_H3H908": {
+        "genes": "",
+        "organisms": "Phytophthora ramorum|Sudden oak death agent"
+    },
+    "UniRef90_A0A0F9XG19": {
+        "genes": "THAR02_04425",
+        "organisms": "Trichoderma harzianum|Hypocrea lixii"
+    },
+    "UniRef90_W9ZLT2": {
+        "genes": "FOMG_13973",
+        "organisms": "Fusarium oxysporum f. sp. melonis 26406"
+    },
+    "UniRef90_A0A2C5YKJ4": {
+        "genes": "CDD82_902",
+        "organisms": "Ophiocordyceps australis"
+    },
+    "UniRef90_A0A1Y2WFK3": {
+        "genes": "M426DRAFT_317428",
+        "organisms": "Hypoxylon sp. CI-4A"
+    },
+    "UniRef90_A0A010R2R2": {
+        "genes": "CFIO01_13682",
+        "organisms": "Colletotrichum fioriniae PJ7"
+    },
+    "UniRef90_A0A4V4MMW1": {
+        "genes": "E3Q17_01540",
+        "organisms": "Wallemia mellicola"
+    },
+    "UniRef90_R1GFB7": {
+        "genes": "UCRNP2_2889",
+        "organisms": "Botryosphaeria parva (strain UCR-NP2)|Grapevine canker fungus|Neofusicoccum parvum"
+    },
+    "UniRef90_A0A4R6VJ69": {
+        "genes": "ilvD|EV188_102841",
+        "organisms": "Actinomycetospora succinea"
+    },
+    "UniRef90_A0A0L0MCK8": {
+        "genes": "BVER_03700",
+        "organisms": "Candidatus Burkholderia verschuerenii"
+    },
+    "UniRef90_A0A0D6EL18": {
+        "genes": "SPOSA6832_02297",
+        "organisms": "Sporidiobolus salmonicolor|Sporobolomyces salmonicolor"
+    },
+    "UniRef90_A0A0Q5V936": {
+        "genes": "ilvD|ASG36_15085",
+        "organisms": "Geodermatophilus sp. Leaf369"
+    },
+    "UniRef90_I4F2K3": {
+        "genes": "ilvD|MODMU_4483",
+        "organisms": "Modestobacter marinus"
+    },
+    "UniRef90_A0A559MB42": {
+        "genes": "LAWI1_G001997",
+        "organisms": "Lachnellula willkommii"
+    },
+    "UniRef90_A0A4R4Y0N5": {
+        "genes": "ilvD|E1288_40865",
+        "organisms": "Saccharopolyspora sp. 7K502"
+    },
+    "UniRef90_A0A2V3IN28": {
+        "genes": "BWQ96_06771",
+        "organisms": "Gracilariopsis chorda"
+    },
+    "UniRef90_A0JXZ9": {
+        "genes": "ilvD|Arth_2540",
+        "organisms": "Arthrobacter sp. (strain FB24)"
+    },
+    "UniRef90_A0A0L6USQ2": {
+        "genes": "VP01_420g5",
+        "organisms": "Puccinia sorghi"
+    },
+    "UniRef90_M2XUE3": {
+        "genes": "Gasu_53750",
+        "organisms": "Galdieria sulphuraria|Red alga"
+    },
+    "UniRef90_A0A367Z0W7": {
+        "genes": "ilvD|DT076_03180",
+        "organisms": "Desertihabitans brevis"
+    },
+    "UniRef90_A0A367B6U5": {
+        "genes": "ilvD|DQ237_08465",
+        "organisms": "Blastococcus sp. TF02-8"
+    },
+    "UniRef90_A0A2V7M7F9": {
+        "genes": "ilvD|DMD59_10530",
+        "organisms": "Gemmatimonadetes bacterium"
+    },
+    "UniRef90_A0A1B1ZV16": {
+        "genes": "ilvD|AFB00_29030",
+        "organisms": "Pseudonocardia sp. HH130630-07"
+    },
+    "UniRef90_Q73TT7": {
+        "genes": "ilvD|MAP_3631c",
+        "organisms": "Mycolicibacterium paratuberculosis (strain ATCC BAA-968 / K-10)|Mycobacterium paratuberculosis"
+    },
+    "UniRef90_A0A5C8P976": {
+        "genes": "ilvD|FHP25_34635",
+        "organisms": "Enhydrobacter sp. CC-CFT640"
+    },
+    "UniRef90_M1UR25": {
+        "genes": "CYME_CMI142C",
+        "organisms": "Cyanidioschyzon merolae (strain 10D)|Red alga"
+    },
+    "UniRef90_A0A271IVE8": {
+        "genes": "ilvD|BSZ37_01295",
+        "organisms": "Rubrivirga marina"
+    },
+    "UniRef90_A0A316RJK0": {
+        "genes": "ilvD|DBX44_03700",
+        "organisms": "Ruminococcaceae bacterium"
+    },
+    "UniRef90_A0A316R8Y9": {
+        "genes": "ilvD|DBY00_06450",
+        "organisms": "Flavobacteriales bacterium"
+    },
+    "UniRef90_A0A3B9ZRL2": {
+        "genes": "ilvD|DCL77_06950",
+        "organisms": "Prolixibacteraceae bacterium"
+    },
+    "UniRef90_A0A0F4PHY4": {
+        "genes": "ilvD|TW72_13935",
+        "organisms": "Pseudoalteromonas ruthenica"
+    },
+    "UniRef90_A0A537P724": {
+        "genes": "ilvD|E6G89_08135",
+        "organisms": "Alphaproteobacteria bacterium"
+    },
+    "UniRef90_S2Z2D2": {
+        "genes": "ilvD|HMPREF1219_00393",
+        "organisms": "Corynebacterium pyruviciproducens ATCC BAA-1742"
+    },
+    "UniRef90_A0A3C2DAR1": {
+        "genes": "ilvD|DCR40_21090",
+        "organisms": "Prolixibacteraceae bacterium"
+    },
+    "UniRef90_A0A1W9W5H2": {
+        "genes": "B6240_11655",
+        "organisms": "Desulfobacteraceae bacterium 4572_87"
+    },
+    "UniRef90_A0A2T5C5R9": {
+        "genes": "ilvD|C8N47_102234",
+        "organisms": "Mangrovibacterium marinum"
+    },
+    "UniRef90_F3ZQX2": {
+        "genes": "ilvD|Bcop_1653",
+        "organisms": "Bacteroides coprosuis DSM 18011"
+    },
+    "UniRef90_A0A4Q7XAE4": {
+        "genes": "EV645_2291",
+        "organisms": "Kribbella soli"
+    },
+    "UniRef90_A0A1G1TKP1": {
+        "genes": "BEN49_19685",
+        "organisms": "Hymenobacter coccineus"
+    },
+    "UniRef90_A0A5C4T6E4": {
+        "genes": "FE784_22985",
+        "organisms": "Paenibacillus hemerocallicola"
+    },
+    "UniRef90_A0A537S4P3": {
+        "genes": "E6G77_00695|E6G78_15750|E6G80_00300",
+        "organisms": "Alphaproteobacteria bacterium"
+    },
+    "UniRef90_A0A2A2ENB4": {
+        "genes": "CK498_25475",
+        "organisms": "Halomonas sp. WRN001"
+    },
+    "UniRef90_A0A1I5JTN0": {
+        "genes": "SAMN04488056_11293",
+        "organisms": "Cohaesibacter marisflavi"
+    },
+    "UniRef90_A0A2N4UIZ1": {
+        "genes": "CR155_05970",
+        "organisms": "Pusillimonas sp. JR1/69-2-13"
+    },
+    "UniRef90_A0A2E7YZ74": {
+        "genes": "CMI83_02570",
+        "organisms": "Candidatus Pelagibacter sp."
+    },
+    "UniRef90_A0A1Y5DPB8": {
+        "genes": "A9Q76_07820",
+        "organisms": "Arcobacter sp. 31_11_sub10_T18"
+    },
+    "UniRef90_A0A090DKL8": {
+        "genes": "araC|MPL3356_220178|MPLDJ20_20779",
+        "organisms": "Mesorhizobium plurifarium"
+    },
+    "UniRef90_U4UWR9": {
+        "genes": "HIMB11_01916",
+        "organisms": "Rhodobacteraceae bacterium HIMB11"
+    },
+    "UniRef90_A0A193G2B0": {
+        "genes": "BAU08_22810",
+        "organisms": "Bordetella bronchialis"
+    },
+    "UniRef90_A0A2E2XE29": {
+        "genes": "CL693_03605",
+        "organisms": "Cellvibrionaceae bacterium"
+    },
+    "UniRef90_A0A2G2HAQ7": {
+        "genes": "COA66_10535",
+        "organisms": "Arcobacter sp."
+    },
+    "UniRef90_A0A427Y7T5": {
+        "genes": "EHS25_003639",
+        "organisms": "Saitozyma podzolica"
+    },
+    "UniRef90_A0A0J0XVT2": {
+        "genes": "CC85DRAFT_255472",
+        "organisms": "Cutaneotrichosporon oleaginosum"
+    },
+    "UniRef90_A0A2N6G5M3": {
+        "genes": "edd|C0626_04390",
+        "organisms": "Arcobacter sp."
+    },
+    "UniRef90_A0A0F4PW48": {
+        "genes": "edd|TW72_08505",
+        "organisms": "Pseudoalteromonas ruthenica"
+    },
+    "UniRef90_A0A371RI54": {
+        "genes": "edd|DX908_07555",
+        "organisms": "Parvularcula sp. SM1705"
+    },
+    "UniRef90_A0A2E1V1T3": {
+        "genes": "edd|CME01_02990",
+        "organisms": "Geminicoccus sp."
+    },
+    "UniRef90_Q9A6N2": {
+        "genes": "edd|CC_2055",
+        "organisms": "Caulobacter vibrioides (strain ATCC 19089 / CB15)|Caulobacter crescentus"
+    },
+    "UniRef90_A0A2E8UHR4": {
+        "genes": "edd|CMK38_05735",
+        "organisms": "Porticoccaceae bacterium"
+    },
+    "UniRef90_A0A0Q8U8K5": {
+        "genes": "edd|ASE17_14530",
+        "organisms": "Phenylobacterium sp. Root77"
+    },
+    "UniRef90_D5VIQ2": {
+        "genes": "edd|Cseg_1375",
+        "organisms": "Caulobacter segnis (strain ATCC 21756 / DSM 7131 / JCM 7823 / NBRC 15250 / LMG 17158 / TK0059)|Mycoplana segnis"
+    },
+    "UniRef90_A0A4R4F9R5": {
+        "genes": "edd|EYQ95_06855",
+        "organisms": "Lysobacter sp. N42"
+    },
+    "UniRef90_A0A1T4WAU2": {
+        "genes": "edd|SAMN02745130_01356",
+        "organisms": "Thiothrix eikelboomii"
+    },
+    "UniRef90_A0A1J5F6N7": {
+        "genes": "edd|AUK54_03150",
+        "organisms": "Helicobacteraceae bacterium CG2_30_36_10"
+    },
+    "UniRef90_Q02139": {
+        "genes": "ilvD|LL1223|L0077",
+        "organisms": "Lactococcus lactis subsp. lactis (strain IL1403)|Streptococcus lactis"
+    },
+    "UniRef90_A0A0D6DUM1": {
+        "genes": "ilvD|LACPI_0278",
+        "organisms": "Lactococcus piscium MKFS47"
+    },
+    "UniRef90_A0A1I5U873": {
+        "genes": "ilvD|SAMN05444277_103128",
+        "organisms": "Parafilimonas terrae"
+    },
+    "UniRef90_A0A386HM81": {
+        "genes": "ilvD|D6B99_04015",
+        "organisms": "Arachidicoccus soli"
+    },
+    "UniRef90_A0A3M9NHN0": {
+        "genes": "ilvD|EFY79_07835",
+        "organisms": "Ferruginibacter sp. BO-59"
+    },
+    "UniRef90_A0A5B8V713": {
+        "genes": "ilvD|FRZ67_07290",
+        "organisms": "Panacibacter ginsenosidivorans"
+    },
+    "UniRef90_A0A191TIV5": {
+        "genes": "ilvD|A9P82_04690",
+        "organisms": "Arachidicoccus sp. BS20"
+    },
+    "UniRef90_A0A1J5SGZ1": {
+        "genes": "ilvD_6|GALL_145010",
+        "organisms": "mine drainage metagenome"
+    },
+    "UniRef90_A0A4U3KXP7": {
+        "genes": "ilvD|FC093_14905",
+        "organisms": "Ilyomonas limi"
+    },
+    "UniRef90_A0A512BB39": {
+        "genes": "ilvD|SAE01_16780",
+        "organisms": "Segetibacter aerophilus"
+    },
+    "UniRef90_A0A5B8VQ08": {
+        "genes": "ilvD|FSB73_17430",
+        "organisms": "Arachidicoccus ginsenosidivorans"
+    },
+    "UniRef90_A0A3S0DQE5": {
+        "genes": "ilvD|EKK39_04280",
+        "organisms": "Sphingobacteriales bacterium"
+    },
+    "UniRef90_A0A0C1LJW6": {
+        "genes": "ilvD|OI18_05350",
+        "organisms": "Flavihumibacter solisilvae"
+    },
+    "UniRef90_W0F5M9": {
+        "genes": "ilvD|NIASO_19470",
+        "organisms": "Niabella soli DSM 19437"
+    },
+    "UniRef90_A0A4Q7MAY2": {
+        "genes": "ilvD|EV199_6078",
+        "organisms": "Pseudobacter ginsenosidimutans"
+    },
+    "UniRef90_A0A4R8DIJ6": {
+        "genes": "ilvD|EDB95_5175",
+        "organisms": "Dinghuibacter silviterrae"
+    },
+    "UniRef90_A0A5C9CCD5": {
+        "genes": "ilvD|FD136_164",
+        "organisms": "Chitinophagaceae bacterium"
+    },
+    "UniRef90_A0A367GLN6": {
+        "genes": "ilvD|DJ568_13515",
+        "organisms": "Mucilaginibacter hurinus"
+    },
+    "UniRef90_A0A1K1PU79": {
+        "genes": "ilvD|SAMN05661012_02251",
+        "organisms": "Chitinophaga sancti"
+    },
+    "UniRef90_A0A1I6SHV0": {
+        "genes": "ilvD|SAMN05216365_11734",
+        "organisms": "Porphyromonadaceae bacterium NLAE-zl-C104"
+    },
+    "UniRef90_A0A2A2S4N1": {
+        "genes": "ilvD|CKK33_08080",
+        "organisms": "Mucilaginibacter sp. MD40"
+    },
+    "UniRef90_A0A0J0Y6V9": {
+        "genes": "ilvD|AB669_07220",
+        "organisms": "Pedobacter sp. BMA"
+    },
+    "UniRef90_A0A5J5IFN6": {
+        "genes": "ilvD|FW778_15170",
+        "organisms": "Chitinophagaceae bacterium BR5-29"
+    },
+    "UniRef90_A0A4Q3T3R9": {
+        "genes": "ilvD|EOO02_00535",
+        "organisms": "Chitinophagaceae bacterium"
+    },
+    "UniRef90_A0A1F3H4X6": {
+        "genes": "ilvD|A2W86_03390",
+        "organisms": "Bacteroidetes bacterium GWD2_45_23"
+    },
+    "UniRef90_F4CD88": {
+        "genes": "ilvD|Sph21_2290",
+        "organisms": "Sphingobacterium sp. (strain 21)"
+    },
+    "UniRef90_A0A2T7QG51": {
+        "genes": "ilvD|DC498_00990",
+        "organisms": "Terrimonas sp. NS-102"
+    },
+    "UniRef90_A0A1S9PBK3": {
+        "genes": "ilvD|BC343_10645",
+        "organisms": "Mucilaginibacter pedocola"
+    },
+    "UniRef90_A0A098C0B3": {
+        "genes": "ilvD3|ilvD|ING2E5B_1611",
+        "organisms": "Fermentimonas caenicola"
+    },
+    "UniRef90_A0A5D8YS43": {
+        "genes": "ilvD|FW774_12600",
+        "organisms": "Pedobacter sp. BS3"
+    },
+    "UniRef90_A0A1M3GRV3": {
+        "genes": "ilvD|BGO56_16420",
+        "organisms": "Sphingobacteriales bacterium 48-107"
+    },
+    "UniRef90_A0A179DH85": {
+        "genes": "ilvD|A5893_05560",
+        "organisms": "Pedobacter psychrophilus"
+    },
+    "UniRef90_A0A2T5J684": {
+        "genes": "ilvD|C8P68_107118",
+        "organisms": "Mucilaginibacter yixingensis"
+    },
+    "UniRef90_A0A437MQZ9": {
+        "genes": "ilvD|EOD41_14010",
+        "organisms": "Mucilaginibacter limnophilus"
+    },
+    "UniRef90_A0A1C2GJA5": {
+        "genes": "ilvD|BEL04_16410",
+        "organisms": "Mucilaginibacter sp. PPCGB 2223"
+    },
+    "UniRef90_A0A318UFL2": {
+        "genes": "ilvD|B0O44_104318",
+        "organisms": "Pedobacter nutrimenti"
+    },
+    "UniRef90_A0A1M4ZV99": {
+        "genes": "ilvD|SAMN05444008_1067",
+        "organisms": "Cnuella takakiae"
+    },
+    "UniRef90_C7PB44": {
+        "genes": "ilvD|Cpin_1920",
+        "organisms": "Chitinophaga pinensis (strain ATCC 43595 / DSM 2588 / NCIB 11800 / UQM 2034)"
+    },
+    "UniRef90_A0A1M4YX19": {
+        "genes": "ilvD|SAMN02745131_01790",
+        "organisms": "Flavisolibacter ginsengisoli DSM 18119"
+    },
+    "UniRef90_A0A110B057": {
+        "genes": "ilvD|MgSA37_00421",
+        "organisms": "Mucilaginibacter gotjawali"
+    },
+    "UniRef90_A0A537I3P7": {
+        "genes": "ilvD|E6H07_08035",
+        "organisms": "Bacteroidetes bacterium"
+    },
+    "UniRef90_A0A2H9VMV6": {
+        "genes": "ilvD|CLV57_2791",
+        "organisms": "Mucilaginibacter auburnensis"
+    },
+    "UniRef90_G8TK69": {
+        "genes": "ilvD|Niako_0102",
+        "organisms": "Niastella koreensis (strain DSM 17620 / KACC 11465 / NBRC 106392 / GR20-10)"
+    },
+    "UniRef90_A0A0Q0V5Z6": {
+        "genes": "ilvD|AQF98_02445",
+        "organisms": "Pedobacter sp. Hv1"
+    },
+    "UniRef90_A0A1X7JBI9": {
+        "genes": "ilvD|SAMN05660862_1709",
+        "organisms": "Sphingobacterium psychroaquaticum"
+    },
+    "UniRef90_A6EEQ5": {
+        "genes": "ilvD|PBAL39_23252",
+        "organisms": "Pedobacter sp. BAL39"
+    },
+    "UniRef90_A0A506PHG0": {
+        "genes": "ilvD|FJ651_11745",
+        "organisms": "Flavobacteriaceae bacterium CWB-1"
+    },
+    "UniRef90_A0A2T7BFV5": {
+        "genes": "ilvD|DCC81_12735",
+        "organisms": "Chitinophaga parva"
+    },
+    "UniRef90_A0A2G4GIB9": {
+        "genes": "ilvD|CK547_06805",
+        "organisms": "Chitinophagaceae bacterium"
+    },
+    "UniRef90_A0A136M451": {
+        "genes": "ilvD|UZ12_BCD005000870",
+        "organisms": "Bacteroidetes bacterium OLB12"
+    },
+    "UniRef90_A0A431MPR0": {
+        "genes": "ilvD|EKK37_10995",
+        "organisms": "Sphingobacteriales bacterium"
+    },
+    "UniRef90_A0A3D5KSB7": {
+        "genes": "ilvD|DGG95_16915",
+        "organisms": "Cytophagales bacterium"
+    },
+    "UniRef90_A3J5T3": {
+        "genes": "ilvD|FBBAL38_11409",
+        "organisms": "Flavobacteria bacterium BAL38"
+    },
+    "UniRef90_A0A1T5F0Y3": {
+        "genes": "ilvD|SAMN05661099_3378",
+        "organisms": "Daejeonella lutea"
+    },
+    "UniRef90_A0A401U868": {
+        "genes": "ilvD|SanaruYs_13020",
+        "organisms": "Chryseotalea sanaruensis"
+    },
+    "UniRef90_A0A5P2G379": {
+        "genes": "ilvD|E0W69_011060",
+        "organisms": "Arachidicoccus sp. B3-10"
+    },
+    "UniRef90_R9GL11": {
+        "genes": "ilvD|ADIARSV_4332",
+        "organisms": "Arcticibacter svalbardensis MN12-7"
+    },
+    "UniRef90_A0A086BJW4": {
+        "genes": "ilvD|IQ37_06625",
+        "organisms": "Chryseobacterium piperi"
+    },
+    "UniRef90_A0A4V6P322": {
+        "genes": "ilvD|EDC17_100632",
+        "organisms": "Sphingobacterium alimentarium"
+    },
+    "UniRef90_A0A1E5UER7": {
+        "genes": "ilvD|BHF72_2157",
+        "organisms": "Cloacibacterium normanense"
+    },
+    "UniRef90_A0A0B8T4N8": {
+        "genes": "ilvD|DI53_1230",
+        "organisms": "Sphingobacterium deserti"
+    },
+    "UniRef90_A0A258WMG9": {
+        "genes": "ilvD|B7Y24_15120",
+        "organisms": "Sphingobacteriales bacterium 16-39-50"
+    },
+    "UniRef90_A0A085BIZ2": {
+        "genes": "ilvD|IO90_05740",
+        "organisms": "Chryseobacterium sp. FH1"
+    },
+    "UniRef90_C6XSP9": {
+        "genes": "ilvD|Phep_3418",
+        "organisms": "Pedobacter heparinus (strain ATCC 13125 / DSM 2366 / CIP 104194 / JCM 7457 / NBRC 12017 / NCIMB 9290 / NRRL B-14731 / HIM 762-3)"
+    },
+    "UniRef90_A0A2W4QZL3": {
+        "genes": "ilvD|DIU61_13240",
+        "organisms": "Bacteroidetes bacterium"
+    },
+    "UniRef90_A0A085EHJ9": {
+        "genes": "ilvD|FEM08_25570",
+        "organisms": "Flavobacterium gilvum"
+    },
+    "UniRef90_A0A0D6TNG8": {
+        "genes": "ilvD|SY27_06300",
+        "organisms": "Flavobacterium sp. 316"
+    },
+    "UniRef90_A0A562K8Z3": {
+        "genes": "ilvD|IP97_02548",
+        "organisms": "Flavobacterium cheniae"
+    },
+    "UniRef90_A0A1B9DSL2": {
+        "genes": "ilvD|FBGL_05055|FGL01_25700",
+        "organisms": "Flavobacterium glycines"
+    },
+    "UniRef90_A0A5C7USM2": {
+        "genes": "ilvD|E6Q66_00805",
+        "organisms": "Pedobacter sp."
+    },
+    "UniRef90_A0A109Q1I9": {
+        "genes": "ilvD|AWN65_09745",
+        "organisms": "Flavobacterium columnare"
+    },
+    "UniRef90_G2Z6U5": {
+        "genes": "ilvD|FBFL15_0833",
+        "organisms": "Flavobacterium branchiophilum (strain FL-15)"
+    },
+    "UniRef90_A0A1D7QF59": {
+        "genes": "ilvD|BFS30_09180",
+        "organisms": "Pedobacter steynii"
+    },
+    "UniRef90_A0A1M6IW19": {
+        "genes": "ilvD|SAMN05444337_1888",
+        "organisms": "Flavobacterium haoranii"
+    },
+    "UniRef90_A0A3C0AYW7": {
+        "genes": "ilvD|DCM02_01920",
+        "organisms": "Flavobacterium sp."
+    },
+    "UniRef90_A0A1G0AIE9": {
+        "genes": "ilvD|A2X21_01070",
+        "organisms": "Flavobacteria bacterium GWA2_35_26"
+    },
+    "UniRef90_A0A1I0QR01": {
+        "genes": "ilvD|SAMN05216290_2546",
+        "organisms": "Roseivirga pacifica"
+    },
+    "UniRef90_A0A4S3ZQX3": {
+        "genes": "ilvD|E6C50_15875",
+        "organisms": "Flavobacterium sp. CC-CTC003"
+    },
+    "UniRef90_A0A2H0ISM0": {
+        "genes": "ilvD|COW03_03665",
+        "organisms": "Cytophagales bacterium CG12_big_fil_rev_8_21_14_0_65_40_12"
+    },
+    "UniRef90_A0A4Y4AT47": {
+        "genes": "ilvD_1|ilvD|FFL01_00480",
+        "organisms": "Flavobacterium flevense"
+    },
+    "UniRef90_A0A0S2JJY2": {
+        "genes": "ilvD|CMT41_17315",
+        "organisms": "Colwellia sp. MT41"
+    },
+    "UniRef90_A0A150XU87": {
+        "genes": "ilvD|AWN68_15885",
+        "organisms": "Roseivirga echinicomitans"
+    },
+    "UniRef90_H8XP56": {
+        "genes": "ilvD|KQS_05830",
+        "organisms": "Flavobacterium indicum (strain DSM 17447 / CIP 109464 / GPTSA100-9)"
+    },
+    "UniRef90_A0A1G8EBH5": {
+        "genes": "ilvD|SAMN05421818_11024",
+        "organisms": "Myroides phaeus"
+    },
+    "UniRef90_A0A1M5JFJ9": {
+        "genes": "ilvD|SAMN05444372_105159",
+        "organisms": "Flavobacterium micromati"
+    },
+    "UniRef90_A0A219ACQ2": {
+        "genes": "ilvD|CDW55_11125",
+        "organisms": "Chryseobacterium sp. VAUSW3"
+    },
+    "UniRef90_Q11NN5": {
+        "genes": "ilvD|CHU_3745",
+        "organisms": "Cytophaga hutchinsonii (strain ATCC 33406 / DSM 1761 / CIP 103989 / NBRC 15051 / NCIMB 9469 / D465)"
+    },
+    "UniRef90_A0A5B7UG53": {
+        "genes": "ilvD|FGE20_02890",
+        "organisms": "Elizabethkingia sp. JS20170427COW"
+    },
+    "UniRef90_A0A2D6ARA3": {
+        "genes": "ilvD|CMB80_14560",
+        "organisms": "Flammeovirgaceae bacterium"
+    },
+    "UniRef90_A0A1M7A1C8": {
+        "genes": "ilvD|SAMN05443634_108124",
+        "organisms": "Chishuiella changwenlii"
+    },
+    "UniRef90_A0A098LC93": {
+        "genes": "ilvD|MYP_1813",
+        "organisms": "Sporocytophaga myxococcoides"
+    },
+    "UniRef90_A0A0L8V781": {
+        "genes": "ilvD|NC99_28460",
+        "organisms": "Sunxiuqinia dokdonensis"
+    },
+    "UniRef90_A0A3N5E2T1": {
+        "genes": "ilvD|EHM93_11620",
+        "organisms": "Bacteroidales bacterium"
+    },
+    "UniRef90_A0A521BBH4": {
+        "genes": "ilvD|SAMN06265350_10263",
+        "organisms": "Solitalea koreensis"
+    },
+    "UniRef90_E6X9V4": {
+        "genes": "ilvD|Celal_3660",
+        "organisms": "Cellulophaga algicola (strain DSM 14237 / IC166 / ACAM 630)"
+    },
+    "UniRef90_I2GS68": {
+        "genes": "ilvD|BN8_06132",
+        "organisms": "Fibrisoma limi BUZ 3"
+    },
+    "UniRef90_A0A0A7KDT9": {
+        "genes": "ilvD|M666_14910",
+        "organisms": "Cellulophaga baltica 18"
+    },
+    "UniRef90_A0A5C7AKD1": {
+        "genes": "ilvD|FUA26_14760",
+        "organisms": "Seonamhaeicola algicola"
+    },
+    "UniRef90_A0A2D5N665": {
+        "genes": "ilvD|CMC00_02635",
+        "organisms": "Flavobacteriaceae bacterium"
+    },
+    "UniRef90_A0A1G9VFL6": {
+        "genes": "ilvD|SAMN04488090_4092",
+        "organisms": "Siphonobacter aquaeclarae"
+    },
+    "UniRef90_A0A1B7ZD88": {
+        "genes": "ilvD|A9200_14000",
+        "organisms": "Maribacter sp. T28"
+    },
+    "UniRef90_A0A1J0LK77": {
+        "genes": "ilvD|UJ101_01121",
+        "organisms": "Flavobacteriaceae bacterium UJ101"
+    },
+    "UniRef90_A0A2Z4GF16": {
+        "genes": "ilvD|DJ013_17650",
+        "organisms": "Arcticibacterium luteifluviistationis"
+    },
+    "UniRef90_W8F7E7": {
+        "genes": "ilvD|Hsw_2941",
+        "organisms": "Hymenobacter swuensis DY53"
+    },
+    "UniRef90_I0W7B9": {
+        "genes": "ilvD|W5A_12296",
+        "organisms": "Imtechella halotolerans K1"
+    },
+    "UniRef90_A0A212T0N3": {
+        "genes": "ilvD|SAMN06265337_0086",
+        "organisms": "Hymenobacter gelipurpurascens"
+    },
+    "UniRef90_A0A0N7HWS4": {
+        "genes": "ilvD|DC20_15100",
+        "organisms": "Rufibacter tibetensis"
+    },
+    "UniRef90_A0A2A5E2C3": {
+        "genes": "ilvD|COA79_03665",
+        "organisms": "Planctomycetes bacterium"
+    },
+    "UniRef90_A0A431IU35": {
+        "genes": "ilvD|EKK54_09900",
+        "organisms": "Neisseriaceae bacterium"
+    },
+    "UniRef90_A0A2T4DR68": {
+        "genes": "ilvD|C9994_08220",
+        "organisms": "Marivirga lumbricoides"
+    },
+    "UniRef90_A0A2E8TC08": {
+        "genes": "ilvD|CL872_07310",
+        "organisms": "Dehalococcoidaceae bacterium"
+    },
+    "UniRef90_A0A2E0NRV0": {
+        "genes": "ilvD|CMC43_03965",
+        "organisms": "Flavobacteriaceae bacterium"
+    },
+    "UniRef90_A0A355B8B1": {
+        "genes": "ilvD|DDZ83_20235",
+        "organisms": "Nitrospinae bacterium"
+    },
+    "UniRef90_A0A520IPR9": {
+        "genes": "ilvD|EOO88_22345",
+        "organisms": "Pedobacter sp."
+    },
+    "UniRef90_A0A1V5ZPV2": {
+        "genes": "ilvD|BWY06_00665",
+        "organisms": "Candidatus Latescibacteria bacterium ADurb.Bin168"
+    },
+    "UniRef90_A0A2E6IJY2": {
+        "genes": "ilvD|CMC83_00365",
+        "organisms": "Flavobacteriaceae bacterium"
+    },
+    "UniRef90_W1QKY0": {
+        "genes": "HPODL_02263",
+        "organisms": "Ogataea parapolymorpha (strain ATCC 26012 / BCRC 20466 / JCM 22074 / NRRL Y-7560 / DL-1)|Yeast|Hansenula polymorpha"
+    },
+    "UniRef90_A0A1Z8NFC0": {
+        "genes": "ilvD|CBB76_01970",
+        "organisms": "Crocinitomicaceae bacterium TMED16"
+    },
+    "UniRef90_A0A316JSS2": {
+        "genes": "ilvD|DCO96_15915",
+        "organisms": "Fluviicola sp. XM-24bin1"
+    },
+    "UniRef90_A0A142HEY2": {
+        "genes": "ilvD|A0257_10255",
+        "organisms": "Hymenobacter sp. PAMC 26554"
+    },
+    "UniRef90_A0A2D5UDC4": {
+        "genes": "ilvD|CMH76_06285",
+        "organisms": "Nitrospinae bacterium"
+    },
+    "UniRef90_A0A352L357": {
+        "genes": "ilvD|DC058_15675|DCX79_04930",
+        "organisms": "Planctomycetaceae bacterium"
+    },
+    "UniRef90_A0A2V8I1S7": {
+        "genes": "ilvD|DMF87_11935",
+        "organisms": "Acidobacteria bacterium"
+    },
+    "UniRef90_A0A520UHA1": {
+        "genes": "ilvD|EVA42_03755",
+        "organisms": "Flavobacteriales bacterium"
+    },
+    "UniRef90_A0A0U4CB48": {
+        "genes": "ilvD|AUC43_10115",
+        "organisms": "Hymenobacter sedentarius"
+    },
+    "UniRef90_W6MXR4": {
+        "genes": "KUCA_T00005333001",
+        "organisms": "Kuraishia capsulata CBS 1993"
+    },
+    "UniRef90_A0A2D7RH55": {
+        "genes": "ilvD|CMC16_01500",
+        "organisms": "Flavobacteriaceae bacterium"
+    },
+    "UniRef90_A0A1N6FFI1": {
+        "genes": "ilvD|SAMN05444394_2410",
+        "organisms": "Algoriphagus halophilus"
+    },
+    "UniRef90_A0A3F3I6C9": {
+        "genes": "ilvD|CL671_08390|CL671_14760",
+        "organisms": "Balneola sp."
+    },
+    "UniRef90_A0A2E3X8P9": {
+        "genes": "ilvD|CMC67_02770",
+        "organisms": "Flavobacteriaceae bacterium"
+    },
+    "UniRef90_L0FYC7": {
+        "genes": "ilvD|Echvi_2055",
+        "organisms": "Echinicola vietnamensis (strain DSM 17526 / LMG 23754 / KMM 6221)"
+    },
+    "UniRef90_G3B4Y8": {
+        "genes": "CANTEDRAFT_114055",
+        "organisms": "Candida tenuis (strain ATCC 10573 / BCRC 21748 / CBS 615 / JCM 9827 / NBRC 10315 / NRRL Y-1498 / VKM Y-70)|Yeast|Yamadazyma tenuis"
+    },
+    "UniRef90_A0A2I7N4F9": {
+        "genes": "ilvD|CUN60_03220",
+        "organisms": "Neisseriaceae bacterium DSM 100970"
+    },
+    "UniRef90_A0A4P2VLL6": {
+        "genes": "ilvD|JCM31447_315700",
+        "organisms": "Silvanigrellales bacterium RF1110005"
+    },
+    "UniRef90_A0A2E8SJW8": {
+        "genes": "ilvD|CMC58_00580",
+        "organisms": "Flavobacteriaceae bacterium"
+    },
+    "UniRef90_I3QG03": {
+        "genes": "ilvD|BGIGA_082",
+        "organisms": "Blattabacterium sp. (Blaberus giganteus)"
+    },
+    "UniRef90_U5BRX1": {
+        "genes": "ilvD|P872_12775",
+        "organisms": "Rhodonellum psychrophilum GCM71 = DSM 17998"
+    },
+    "UniRef90_A0A2D9IJ54": {
+        "genes": "ilvD|CMC06_03660",
+        "organisms": "Flavobacteriaceae bacterium"
+    },
+    "UniRef90_H2AQP6": {
+        "genes": "KAFR0B04000|KAFR_0B04000",
+        "organisms": "Kazachstania africana (strain ATCC 22294 / BCRC 22015 / CBS 2517 / CECT 1963 / NBRC 1671 / NRRL Y-8276)|Yeast|Kluyveromyces africanus"
+    },
+    "UniRef90_A0A251X3T1": {
+        "genes": "ilvD|TPSD3_12985",
+        "organisms": "Thioflexothrix psekupsii"
+    },
+    "UniRef90_A0A4P5XB46": {
+        "genes": "ilvD|LBMAG47_31300",
+        "organisms": "Planctomycetia bacterium"
+    },
+    "UniRef90_A0A2E4V1X3": {
+        "genes": "ilvD|CL837_06330",
+        "organisms": "Crocinitomicaceae bacterium"
+    },
+    "UniRef90_A0A2D8N981": {
+        "genes": "ilvD|CMC12_01745",
+        "organisms": "Flavobacteriaceae bacterium"
+    },
+    "UniRef90_A0A068DNV2": {
+        "genes": "ilvD|FNIIJ_147",
+        "organisms": "Candidatus Walczuchella monophlebidarum"
+    },
+    "UniRef90_R7ZT72": {
+        "genes": "ilvD|ADIS_2269",
+        "organisms": "Lunatimonas lonarensis"
+    },
+    "UniRef90_A0A3L7VA01": {
+        "genes": "ilvD|DWI25_02510",
+        "organisms": "Planctomycetes bacterium"
+    },
+    "UniRef90_A0A3E0NG65": {
+        "genes": "ilvD|DWQ31_02700",
+        "organisms": "Planctomycetes bacterium"
+    },
+    "UniRef90_A0A1I1L7H5": {
+        "genes": "ilvD|SAMN05421747_1182",
+        "organisms": "Parapedobacter composti"
+    },
+    "UniRef90_A0A518KW33": {
+        "genes": "ilvD_1|ilvD|TBK1r_09320",
+        "organisms": "Planctomycetes bacterium TBK1r"
+    },
+    "UniRef90_A0A1H6X597": {
+        "genes": "ilvD|SAMN05192553_102870",
+        "organisms": "Cyclobacterium xiamenense"
+    },
+    "UniRef90_A0A3L7RRI4": {
+        "genes": "ilvD|DWI01_04630",
+        "organisms": "Planctomycetes bacterium"
+    },
+    "UniRef90_A0A2E0TDS3": {
+        "genes": "ilvD|CMN29_08950",
+        "organisms": "Sandaracinus sp."
+    },
+    "UniRef90_A0A3L7RCL5": {
+        "genes": "ilvD|DWH98_03445",
+        "organisms": "Planctomycetes bacterium"
+    },
+    "UniRef90_A0A2D9T1Z0": {
+        "genes": "ilvD|CMN30_07840",
+        "organisms": "Sandaracinus sp."
+    },
+    "UniRef90_A0A139A601": {
+        "genes": "M427DRAFT_101544",
+        "organisms": "Gonapodya prolifera (strain JEL478)|Monoblepharis prolifera"
+    },
+    "UniRef90_G0J6R9": {
+        "genes": "ilvD|Cycma_2375",
+        "organisms": "Cyclobacterium marinum (strain ATCC 25205 / DSM 745 / LMG 13164 / NCIMB 1802)|Flectobacillus marinus"
+    },
+    "UniRef90_A0A485KNG0": {
+        "genes": "Aste57867_9666|As57867_009628|ASTE57867_9666",
+        "organisms": "Aphanomyces stellatus"
+    },
+    "UniRef90_A0A3L7UMB7": {
+        "genes": "ilvD|DWI23_01270",
+        "organisms": "Planctomycetes bacterium"
+    },
+    "UniRef90_Q6CAY2": {
+        "genes": "YALI0_C23408g",
+        "organisms": "Yarrowia lipolytica (strain CLIB 122 / E 150)|Yeast|Candida lipolytica"
+    },
+    "UniRef90_F4S819": {
+        "genes": "MELLADRAFT_40368",
+        "organisms": "Melampsora larici-populina (strain 98AG31 / pathotype 3-4-7)|Poplar leaf rust fungus"
+    },
+    "UniRef90_A0A2E4IU37": {
+        "genes": "ilvD|CL647_03040",
+        "organisms": "bacterium"
+    },
+    "UniRef90_A0A520PP68": {
+        "genes": "ilvD|EVA81_01190",
+        "organisms": "Proteobacteria bacterium"
+    },
+    "UniRef90_A0A1Y1WKN3": {
+        "genes": "DL89DRAFT_289738",
+        "organisms": "Linderina pennispora"
+    },
+    "UniRef90_G4T1P9": {
+        "genes": "ilvD|MEALZ_1795",
+        "organisms": "Methylomicrobium alcaliphilum (strain DSM 19304 / NCIMB 14124 / VKM B-2133 / 20Z)"
+    },
+    "UniRef90_A0A1Z4BZG7": {
+        "genes": "ilvD|CEK71_11670",
+        "organisms": "Methylovulum psychrotolerans"
+    },
+    "UniRef90_A0A1S8CUY3": {
+        "genes": "ilvD|BKE30_06380",
+        "organisms": "Alkanindiges sp. H1"
+    },
+    "UniRef90_A0A2A2Q1A6": {
+        "genes": "ilvD|B9S36_02625",
+        "organisms": "Verrucomicrobiae bacterium Tous-C2TDCM"
+    },
+    "UniRef90_A0A6B3LCS8": {
+        "genes": "ilvD|G3M56_08700",
+        "organisms": "Verrucomicrobiales bacterium T37"
+    },
+    "UniRef90_A0A2E5C1T3": {
+        "genes": "ilvD|CL935_03015",
+        "organisms": "Deltaproteobacteria bacterium"
+    },
+    "UniRef90_A0A5B8SRC4": {
+        "genes": "ilvD|FGL86_00490",
+        "organisms": "Pistricoccus aurantiacus"
+    },
+    "UniRef90_A0A0M3T1W8": {
+        "genes": "ilvD|W908_03940",
+        "organisms": "Candidatus Thioglobus singularis PS1"
+    },
+    "UniRef90_A0A2D5I572": {
+        "genes": "ilvD|CMQ56_03305",
+        "organisms": "Gammaproteobacteria bacterium"
+    },
+    "UniRef90_A0A2A2QYC9": {
+        "genes": "ilvD|B9S32_17445",
+        "organisms": "Verrucomicrobia bacterium Tous-C9LFEB"
+    },
+    "UniRef90_A0A1M4TLN4": {
+        "genes": "ilvD|SAMN02745148_00488",
+        "organisms": "Halomonas ilicicola DSM 19980"
+    },
+    "UniRef90_A0A2E1JLY4": {
+        "genes": "ilvD|CMQ90_03645",
+        "organisms": "Gammaproteobacteria bacterium"
+    },
+    "UniRef90_A4GJU2": {
+        "genes": "ilvD|MBMO_EB80-02D08.0019",
+        "organisms": "uncultured marine bacterium EB80_02D08"
+    },
+    "UniRef90_J4HWA4": {
+        "genes": "FIBRA_03989",
+        "organisms": "Fibroporia radiculosa"
+    },
+    "UniRef90_A0A2E9VY52": {
+        "genes": "ilvD|CMC52_00920",
+        "organisms": "Flavobacteriaceae bacterium"
+    },
+    "UniRef90_U1GF65": {
+        "genes": "EPUS_05200",
+        "organisms": "Endocarpon pusillum (strain Z07020 / HMAS-L-300199)|Lichen-forming fungus"
+    },
+    "UniRef90_A0A2D6ZNV3": {
+        "genes": "ilvD|CMQ76_03090",
+        "organisms": "Gammaproteobacteria bacterium"
+    },
+    "UniRef90_A0A2E8M720": {
+        "genes": "ilvD|CMO60_01275|DDW68_04135",
+        "organisms": "Verrucomicrobiales bacterium"
+    },
+    "UniRef90_A0A2D7U3E1": {
+        "genes": "ilvD|CMK55_05215",
+        "organisms": "Proteobacteria bacterium"
+    },
+    "UniRef90_A0A2P6ARZ5": {
+        "genes": "ilvD|C5O18_06430",
+        "organisms": "Amnimonas aquatica"
+    },
+    "UniRef90_Q6Q928": {
+        "genes": "ilvD|Red20E09_36",
+        "organisms": "uncultured marine gamma proteobacterium EBAC20E09"
+    },
+    "UniRef90_A0A2E1KWT0": {
+        "genes": "ilvD|CML12_03630|DBX03_01955",
+        "organisms": "Puniceicoccaceae bacterium"
+    },
+    "UniRef90_A0A3E0KPQ3": {
+        "genes": "ilvD|DIU82_02785",
+        "organisms": "Firmicutes bacterium"
+    },
+    "UniRef90_A0A2E1QMQ6": {
+        "genes": "ilvD|CMQ87_03470",
+        "organisms": "Gammaproteobacteria bacterium"
+    },
+    "UniRef90_A0A2D5PQK0": {
+        "genes": "ilvD|CMQ55_01300",
+        "organisms": "Gammaproteobacteria bacterium"
+    },
+    "UniRef90_A0A368BYB4": {
+        "genes": "ilvD|DBW95_01110",
+        "organisms": "Gammaproteobacteria bacterium"
+    },
+    "UniRef90_E0XPC8": {
+        "genes": "ilvD",
+        "organisms": "uncultured bacterium HF0010_16H03"
+    },
+    "UniRef90_A0A520N305": {
+        "genes": "ilvD|EVA97_03615",
+        "organisms": "SAR86 cluster bacterium"
+    },
+    "UniRef90_A0A3D4UBL4": {
+        "genes": "ilvD|DF427_06440",
+        "organisms": "Moraxellaceae bacterium"
+    },
+    "UniRef90_A0A1M7QJA5": {
+        "genes": "ilvD|SAMN05216179_3256",
+        "organisms": "Gracilibacillus kekensis"
+    },
+    "UniRef90_A0A2E8RF89": {
+        "genes": "ilvD|CMD58_02420",
+        "organisms": "Gammaproteobacteria bacterium"
+    },
+    "UniRef90_A0A3S5JEW4": {
+        "genes": "ilvD|CBD85_000595",
+        "organisms": "Gammaproteobacteria bacterium TMED225"
+    },
+    "UniRef90_A0A4R1XSM7": {
+        "genes": "ilvD|EC844_11638",
+        "organisms": "Acinetobacter calcoaceticus"
+    },
+    "UniRef90_A0A2E1GVX2": {
+        "genes": "ilvD|CMQ91_02405",
+        "organisms": "Gammaproteobacteria bacterium"
+    },
+    "UniRef90_A0A2E2WST9": {
+        "genes": "ilvD|CMD72_00900",
+        "organisms": "Gammaproteobacteria bacterium"
+    },
+    "UniRef90_A0A1P8PNS4": {
+        "genes": "ilvD-1|ilvD|AsACE_CH02843",
+        "organisms": "Acinetobacter schindleri"
+    },
+    "UniRef90_A0A2E1TNK0": {
+        "genes": "ilvD|CMQ81_02210",
+        "organisms": "Gammaproteobacteria bacterium"
+    },
+    "UniRef90_A0A2W5R7Z1": {
+        "genes": "ilvD|ilvD_1|DI542_14745|EGT72_12800|NCTC10308_02810",
+        "organisms": "Acinetobacter johnsonii"
+    },
+    "UniRef90_A0A2D7RJX2": {
+        "genes": "ilvD|CMD94_02065",
+        "organisms": "Gammaproteobacteria bacterium"
+    },
+    "UniRef90_A0A2E9KV40": {
+        "genes": "ilvD|CMN79_01000",
+        "organisms": "Spirochaetales bacterium"
+    },
+    "UniRef90_A0A4T0J639": {
+        "genes": "E3P86_01998",
+        "organisms": "Wallemia ichthyophaga"
+    },
+    "UniRef90_A0A2E1PMJ9": {
+        "genes": "ilvD|CMQ86_01820",
+        "organisms": "Gammaproteobacteria bacterium"
+    },
+    "UniRef90_A0A2E6QY96": {
+        "genes": "ilvD|CMD79_02465",
+        "organisms": "Gammaproteobacteria bacterium"
+    },
+    "UniRef90_A0A0D0QU52": {
+        "genes": "ilvD|ilvD_1|ilvD_2|BUY97_09265|NCTC12195_00817|SGA02_28600",
+        "organisms": "Staphylococcus gallinarum"
+    },
+    "UniRef90_A0A4T0FE81": {
+        "genes": "E3P99_03708",
+        "organisms": "Wallemia hederae"
+    },
+    "UniRef90_A0A2E5T9P3": {
+        "genes": "ilvD|CL551_11825",
+        "organisms": "Alcanivorax sp."
+    },
+    "UniRef90_A0A240E240": {
+        "genes": "ilvD|SAMN06295945_1666",
+        "organisms": "Polynucleobacter meluiroseus"
+    },
+    "UniRef90_A0A6C0IW30": {
+        "genes": "",
+        "organisms": "viral metagenome"
+    },
+    "UniRef90_S0EY42": {
+        "genes": "ilvD|CCALI_02849",
+        "organisms": "Chthonomonas calidirosea (strain DSM 23976 / ICMP 18418 / T49)"
+    },
+    "UniRef90_A0A537AR14": {
+        "genes": "ilvD|E6H52_08965",
+        "organisms": "Betaproteobacteria bacterium"
+    },
+    "UniRef90_A0A2G5I2L0": {
+        "genes": "CB0940_03679",
+        "organisms": "Cercospora beticola|Sugarbeet leaf spot fungus"
+    },
+    "UniRef90_A0A661PK69": {
+        "genes": "ilvD|DRH08_06415",
+        "organisms": "Deltaproteobacteria bacterium"
+    },
+    "UniRef90_A0A1F6RK25": {
+        "genes": "ilvD|A3B68_08615",
+        "organisms": "Candidatus Melainabacteria bacterium RIFCSPHIGHO2_02_FULL_34_12"
+    },
+    "UniRef90_A0A0F9Z8W6": {
+        "genes": "ilvD|UR30_C0006G0029",
+        "organisms": "Candidatus Peregrinibacteria bacterium GW2011_GWC2_33_13"
+    },
+    "UniRef90_R7Z7F0": {
+        "genes": "W97_09129",
+        "organisms": "Coniosporium apollinis (strain CBS 100218)|Rock-inhabiting black yeast"
+    },
+    "UniRef90_A0A4S2MVN7": {
+        "genes": "EX30DRAFT_355256",
+        "organisms": "Ascodesmis nigricans"
+    },
+    "UniRef90_A0A0Q6FQ16": {
+        "genes": "ilvD|ASG49_03440",
+        "organisms": "Marmoricola sp. Leaf446"
+    },
+    "UniRef90_A0A411YIT8": {
+        "genes": "ilvD|ER308_16380",
+        "organisms": "Egibacter rhizosphaerae"
+    },
+    "UniRef90_A0A550CGV8": {
+        "genes": "BD626DRAFT_568624",
+        "organisms": "Auriculariopsis ampla"
+    },
+    "UniRef90_A0A4P5RUP2": {
+        "genes": "ilvD|LBMAG10_01130",
+        "organisms": "Actinobacteria bacterium"
+    },
+    "UniRef90_A0A257RUD6": {
+        "genes": "ilvD|B7X07_06005",
+        "organisms": "Actinobacteria bacterium 21-64-8"
+    },
+    "UniRef90_A0A517L045": {
+        "genes": "FKW77_009525",
+        "organisms": "Venturia effusa"
+    },
+    "UniRef90_A0A1F4QD48": {
+        "genes": "ilvD|A3H39_00180",
+        "organisms": "candidate division NC10 bacterium RIFCSPLOWO2_02_FULL_66_22"
+    },
+    "UniRef90_A0A495BL06": {
+        "genes": "ilvD|C8E94_3228",
+        "organisms": "Edaphobacter dinghuensis"
+    },
+    "UniRef90_A0A4P6PF41": {
+        "genes": "ilvD|EGM51_13660",
+        "organisms": "Verrucomicrobia bacterium S94"
+    },
+    "UniRef90_Q9K8E4": {
+        "genes": "ilvD|BH3062",
+        "organisms": "Bacillus halodurans (strain ATCC BAA-125 / DSM 18197 / FERM 7344 / JCM 9153 / C-125)"
+    },
+    "UniRef90_A0A369XWZ4": {
+        "genes": "ilvD|DV867_04885",
+        "organisms": "Psychrilyobacter sp. S5"
+    },
+    "UniRef90_G1WFL7": {
+        "genes": "ilvD|HMPREF9452_00130",
+        "organisms": "Collinsella tanakaei YIT 12063"
+    },
+    "UniRef90_A0A316NZ90": {
+        "genes": "ilvD|DBY21_09590",
+        "organisms": "Candidatus Gastranaerophilales bacterium"
+    },
+    "UniRef90_A0A521U3G8": {
+        "genes": "ilvD|EPO26_00030",
+        "organisms": "Chloroflexi bacterium"
+    },
+    "UniRef90_A0A351U764": {
+        "genes": "ilvD|DCZ04_15435",
+        "organisms": "Syntrophorhabdus aromaticivorans"
+    },
+    "UniRef90_A0A4Y4B1G7": {
+        "genes": "ilvD_2|ilvD|FFL01_22730",
+        "organisms": "Flavobacterium flevense"
+    },
+    "UniRef90_A0A1G3BFV5": {
+        "genes": "ilvD|A3E19_00920",
+        "organisms": "Planctomycetes bacterium RIFCSPHIGHO2_12_FULL_52_36"
+    },
+    "UniRef90_A0A1P8KQB0": {
+        "genes": "ilvD|LPB137_13055",
+        "organisms": "Poseidonibacter parvus"
+    },
+    "UniRef90_A0A523AAD4": {
+        "genes": "ilvD|DSO01_07265",
+        "organisms": "Archaeoglobi archaeon"
+    },
+    "UniRef90_A0A268U5R4": {
+        "genes": "ilvD|BKH44_02785",
+        "organisms": "Helicobacter sp. 13S00477-4"
+    },
+    "UniRef90_A0A1W1C8G3": {
+        "genes": "MNB_SV-9-1276",
+        "organisms": "hydrothermal vent metagenome"
+    },
+    "UniRef90_A0A3M2HTP3": {
+        "genes": "ilvD|EBB59_06050",
+        "organisms": "Lysobacter pythonis"
+    },
+    "UniRef90_A0A2V2C9R8": {
+        "genes": "ilvD|DBX98_02100",
+        "organisms": "Clostridiales bacterium"
+    },
+    "UniRef90_X0PHF9": {
+        "genes": "FC83_GL003071",
+        "organisms": "Agrilactobacillus composti DSM 18527 = JCM 14202"
+    },
+    "UniRef90_A0A427HKD5": {
+        "genes": "ilvD|EGJ46_07805",
+        "organisms": "Providencia rettgeri"
+    },
+    "UniRef90_A0A2W6SJX1": {
+        "genes": "DI619_04705",
+        "organisms": "Francisella sp."
+    },
+    "UniRef90_A0A520W6B1": {
+        "genes": "EVA21_04865",
+        "organisms": "Alphaproteobacteria bacterium"
+    },
+    "UniRef90_A0A517NH78": {
+        "genes": "araC|K227x_48380",
+        "organisms": "Planctomycetes bacterium K22_7"
+    },
+    "UniRef90_A0A174X339": {
+        "genes": "ilvD_3|ERS852528_04817",
+        "organisms": "Hungatella hathewayi"
+    },
+    "UniRef90_A0A1P8M2U1": {
+        "genes": "BWQ92_12370",
+        "organisms": "Arthrobacter sp. QXT-31"
+    },
+    "UniRef90_S6F3G9": {
+        "genes": "ilvD|O9U_04475",
+        "organisms": "Lactococcus lactis subsp. lactis A12"
+    },
+    "UniRef90_A0A4Q3LCL5": {
+        "genes": "EOO42_17910",
+        "organisms": "Flavobacteriales bacterium"
+    },
+    "UniRef90_A0A3B8WD23": {
+        "genes": "DCE81_09250",
+        "organisms": "Cytophagales bacterium"
+    },
+    "UniRef90_A0A317GXQ4": {
+        "genes": "C5B59_20565",
+        "organisms": "Bacteroidetes bacterium"
+    },
+    "UniRef90_A0A432J6Q5": {
+        "genes": "ilvD|DSY83_02950",
+        "organisms": "Flavobacteriia bacterium"
+    },
+    "UniRef90_A0A0E9LSE7": {
+        "genes": "JCM15548_124",
+        "organisms": "Geofilum rubicundum JCM 15548"
+    },
+    "UniRef90_A0A4Q3HCJ9": {
+        "genes": "EOP48_05555",
+        "organisms": "Sphingobacteriales bacterium"
+    },
+    "UniRef90_A0A3D2GJQ2": {
+        "genes": "ilvD|DE315_08610",
+        "organisms": "Candidatus Omnitrophica bacterium"
+    },
+    "UniRef90_A0A4V1T8Z2": {
+        "genes": "EOP48_18180",
+        "organisms": "Sphingobacteriales bacterium"
+    },
+    "UniRef90_A0A357JGB2": {
+        "genes": "DDZ39_07945|DEO36_02650",
+        "organisms": "Flavobacteriaceae bacterium"
+    },
+    "UniRef90_A0A2T7DAV6": {
+        "genes": "GQ55_6G290800",
+        "organisms": "Panicum hallii var. hallii"
+    },
+    "UniRef90_A0A349X950": {
+        "genes": "DCW52_14335",
+        "organisms": "Gammaproteobacteria bacterium"
+    },
+    "UniRef90_A0A4Q3QI60": {
+        "genes": "EOO39_13495",
+        "organisms": "Cytophagaceae bacterium"
+    },
+    "UniRef90_A0A355H8L8": {
+        "genes": "DDZ36_08445",
+        "organisms": "Deltaproteobacteria bacterium"
+    },
+    "UniRef90_A0A2E8IG05": {
+        "genes": "CMF35_14645",
+        "organisms": "Leeuwenhoekiella sp."
+    },
+    "UniRef90_A0A350ER41": {
+        "genes": "ilvD|DCY13_02715",
+        "organisms": "Verrucomicrobiales bacterium"
+    },
+    "UniRef90_V9FXM5": {
+        "genes": "F443_01172",
+        "organisms": "Phytophthora parasitica P1569"
+    },
+    "UniRef90_A0A3M1UHW6": {
+        "genes": "D6721_09465",
+        "organisms": "Gammaproteobacteria bacterium"
+    },
+    "UniRef90_A0A2E7AK46": {
+        "genes": "CMP27_12210",
+        "organisms": "Roseibacillus sp."
+    },
+    "UniRef90_A0A3B1D1K0": {
+        "genes": "MNBD_PLANCTO02-2021",
+        "organisms": "hydrothermal vent metagenome"
+    },
+    "UniRef90_A0A5E6Y1T2": {
+        "genes": "ilvD_3|PS673_05754",
+        "organisms": "Pseudomonas fluorescens"
+    },
+    "UniRef90_A0A2T4AWH7": {
+        "genes": "BBK36DRAFT_1164083",
+        "organisms": "Trichoderma citrinoviride"
+    },
+    "UniRef90_A0A3D1AVA5": {
+        "genes": "DEQ47_10620",
+        "organisms": "Bryobacterales bacterium"
+    },
+    "UniRef90_A0A287WNK8": {
+        "genes": "",
+        "organisms": "Hordeum vulgare subsp. vulgare|Domesticated barley"
+    },
+    "UniRef90_A0A3D5DEI6": {
+        "genes": "DGR97_06140",
+        "organisms": "Gammaproteobacteria bacterium"
+    },
+    "UniRef90_A0A3B8VDT4": {
+        "genes": "DCE78_02695",
+        "organisms": "Bacteroidetes bacterium"
+    },
+    "UniRef90_A0A4Q2YK42": {
+        "genes": "EOP87_01150",
+        "organisms": "Verrucomicrobiaceae bacterium"
+    },
+    "UniRef90_L7YDJ7": {
+        "genes": "BLBBOR_553",
+        "organisms": "Blattabacterium sp. (Blatta orientalis) str. Tarazona"
+    },
+    "UniRef90_A0A3D3QIB5": {
+        "genes": "DIT46_01020",
+        "organisms": "Gemmatimonadetes bacterium"
+    },
+    "UniRef90_A0A139DK25": {
+        "genes": "AWU57_1773",
+        "organisms": "Marinobacter sp. T13-3"
+    },
+    "UniRef90_A0A2E6B5M8": {
+        "genes": "CMQ47_07085",
+        "organisms": "Gammaproteobacteria bacterium"
+    },
+    "UniRef90_A0A381XHT8": {
+        "genes": "METZ01_LOCUS116956",
+        "organisms": "marine metagenome"
+    },
+    "UniRef90_A0A661C313": {
+        "genes": "DRQ44_06170",
+        "organisms": "Gammaproteobacteria bacterium"
+    },
+    "UniRef90_A0A556W455": {
+        "genes": "FMJ08_05410",
+        "organisms": "Halomonas sp."
+    },
+    "UniRef90_A0A351KRR7": {
+        "genes": "DCY52_03115",
+        "organisms": "Methylococcaceae bacterium"
+    },
+    "UniRef90_A0A087SN09": {
+        "genes": "F751_1286",
+        "organisms": "Auxenochlorella protothecoides|Green microalga|Chlorella protothecoides"
+    },
+    "UniRef90_A0A4Q3QZ34": {
+        "genes": "EON98_16030",
+        "organisms": "Chitinophagaceae bacterium"
+    },
+    "UniRef90_A0A2E0GJ08": {
+        "genes": "CL427_00670",
+        "organisms": "Acidimicrobiaceae bacterium"
+    },
+    "UniRef90_A0A524AY65": {
+        "genes": "E3I13_00075",
+        "organisms": "Gammaproteobacteria bacterium"
+    },
+    "UniRef90_A0A427YTM1": {
+        "genes": "EHS25_004158",
+        "organisms": "Saitozyma podzolica"
+    },
+    "UniRef90_A0A3D5XK82": {
+        "genes": "DHU16_03845",
+        "organisms": "Gammaproteobacteria bacterium"
+    },
+    "UniRef90_A0A3N5K4T5": {
+        "genes": "EHM63_08070",
+        "organisms": "Actinobacteria bacterium"
+    },
+    "UniRef90_A0A3D4XQA4": {
+        "genes": "DF614_02180",
+        "organisms": "Methylococcaceae bacterium"
+    },
+    "UniRef90_A0A258AHB5": {
+        "genes": "B7Z24_03720",
+        "organisms": "Pseudomonadales bacterium 32-42-5"
+    },
+    "UniRef90_A0A359C9X3": {
+        "genes": "DEH27_05315",
+        "organisms": "Deltaproteobacteria bacterium"
+    },
+    "UniRef90_A0A2E9H6Q7": {
+        "genes": "CL922_01675",
+        "organisms": "Deltaproteobacteria bacterium"
+    },
+    "UniRef90_A0A3D3SVJ1": {
+        "genes": "DIT38_01510",
+        "organisms": "Burkholderiales bacterium"
+    },
+    "UniRef90_A0A1Y5EUM3": {
+        "genes": "A9Q85_06260",
+        "organisms": "Cycloclasticus sp. 44_32_T64"
+    },
+    "UniRef90_A0A3D5JXV7": {
+        "genes": "DGJ56_01795",
+        "organisms": "Verrucomicrobiales bacterium"
+    },
+    "UniRef90_A0A1D2PCE5": {
+        "genes": "QH73_005865",
+        "organisms": "Scytonema millei VB511283"
+    },
+    "UniRef90_A0A1Y2BDT1": {
+        "genes": "BCR33DRAFT_755054",
+        "organisms": "Rhizoclosmatium globosum"
+    },
+    "UniRef90_A0A388P7N4": {
+        "genes": "EMGBS6_06280",
+        "organisms": "Opitutae bacterium"
+    },
+    "UniRef90_A0A1E3BK08": {
+        "genes": "SI65_04353",
+        "organisms": "Aspergillus cristatus"
+    },
+    "UniRef90_A0A094SI49": {
+        "genes": "GM51_9030",
+        "organisms": "freshwater metagenome"
+    },
+    "UniRef90_A0A1Q8BL42": {
+        "genes": "AUG75_16510",
+        "organisms": "Cyanobacteria bacterium 13_1_20CM_4_61_6"
+    },
+    "UniRef90_A0A0L6WNI4": {
+        "genes": "J132_06895",
+        "organisms": "Termitomyces sp. J132"
+    },
+    "UniRef90_A0A2G6DMS7": {
+        "genes": "CR980_01825",
+        "organisms": "Propionibacteriales bacterium"
+    },
+    "UniRef90_X0PJ78": {
+        "genes": "JCM14108_1596",
+        "organisms": "Lactobacillus farraginis DSM 18382 = JCM 14108"
+    },
+    "UniRef90_A0A651GII4": {
+        "genes": "EA387_07130",
+        "organisms": "Nitriliruptor sp."
+    },
+    "UniRef90_A0A2E3TN78": {
+        "genes": "CMF30_04755",
+        "organisms": "Kiritimatiellaceae bacterium"
+    },
+    "UniRef90_A0A3C1DT53": {
+        "genes": "DCM51_01705",
+        "organisms": "Actinobacteria bacterium"
+    },
+    "UniRef90_A0A5C7XU48": {
+        "genes": "E6Q57_03800",
+        "organisms": "Mycobacterium sp."
+    },
+    "UniRef90_A0A1B8P6C3": {
+        "genes": "ilvD_5|A8U91_02194",
+        "organisms": "Halomonas elongata"
+    },
+    "UniRef90_A0A0M2LXQ0": {
+        "genes": "XM48_02335",
+        "organisms": "Leucobacter sp. Ag1"
+    },
+    "UniRef90_A0A3L7STN3": {
+        "genes": "DWI06_02980",
+        "organisms": "Planctomycetes bacterium"
+    },
+    "UniRef90_A0A1E4I0Z6": {
+        "genes": "ABS81_16930",
+        "organisms": "Pseudonocardia sp. SCN 72-86"
+    },
+    "UniRef90_A0A507R6L9": {
+        "genes": "MPDQ_003052",
+        "organisms": "Monascus purpureus|Red mold|Monascus anka"
+    },
+    "UniRef90_A0A0G4LHI5": {
+        "genes": "BN1723_012279",
+        "organisms": "Verticillium longisporum"
+    },
+    "UniRef90_A0A535P7T4": {
+        "genes": "E6I94_08355",
+        "organisms": "Chloroflexi bacterium"
+    },
+    "UniRef90_A0A0R2QIH7": {
+        "genes": "ABR73_02455",
+        "organisms": "Actinobacteria bacterium BACL4 MAG-121001-bin59"
+    },
+    "UniRef90_A0A3E0QI85": {
+        "genes": "DWQ14_02040",
+        "organisms": "Proteobacteria bacterium"
+    },
+    "UniRef90_A0A0K2RRK0": {
+        "genes": "AHiyo8_57690",
+        "organisms": "Arthrobacter sp. Hiyo8"
+    },
+    "UniRef90_A0A354FGP7": {
+        "genes": "DDY25_09425",
+        "organisms": "Peptococcaceae bacterium"
+    },
+    "UniRef90_A0A357MBD1": {
+        "genes": "DEA91_24200",
+        "organisms": "Paenibacillus sp."
+    },
+    "UniRef90_A0A3D0KL74": {
+        "genes": "DEO32_00015",
+        "organisms": "Ruminococcaceae bacterium"
+    },
+    "UniRef90_A0A167WB20": {
+        "genes": "AAP_04941",
+        "organisms": "Ascosphaera apis ARSEF 7405"
+    },
+    "UniRef90_A0A3G8JHM5": {
+        "genes": "ilvD_1|D7316_01183",
+        "organisms": "Gordonia insulae"
+    },
+    "UniRef90_A0A3D5L1D5": {
+        "genes": "DGX96_07560",
+        "organisms": "Lachnospiraceae bacterium"
+    },
+    "UniRef90_W4V3S0": {
+        "genes": "JCM21531_747",
+        "organisms": "Hungateiclostridium straminisolvens JCM 21531"
+    },
+    "UniRef90_A0A258G6Y7": {
+        "genes": "B7Y98_03305",
+        "organisms": "Sphingomonas sp. 32-62-10"
+    },
+    "UniRef90_A0A4Q4TNT4": {
+        "genes": "DL765_008656",
+        "organisms": "Monosporascus sp. GIB2"
+    },
+    "UniRef90_A0A524CIJ2": {
+        "genes": "EU548_08890",
+        "organisms": "Candidatus Lokiarchaeota archaeon"
+    },
+    "UniRef90_A0A6A6MPD3": {
+        "genes": "GH714_022370",
+        "organisms": "Hevea brasiliensis|Para rubber tree|Siphonia brasiliensis"
+    },
+    "UniRef90_A0A3R7DAG1": {
+        "genes": "CW713_08905",
+        "organisms": "Methanophagales archaeon"
+    },
+    "UniRef90_A6FE96": {
+        "genes": "PE36_15195",
+        "organisms": "Moritella sp. PE36"
+    },
+    "UniRef90_A0A519FJS7": {
+        "genes": "EOP80_08090",
+        "organisms": "Variovorax sp."
+    },
+    "UniRef90_A0A2E7Z188": {
+        "genes": "CL726_02250",
+        "organisms": "Chloroflexi bacterium"
+    },
+    "UniRef90_A0A355JU48": {
+        "genes": "DD399_10565",
+        "organisms": "Alcanivorax sp."
+    },
+    "UniRef90_A0A2D6AF98": {
+        "genes": "CL695_00580",
+        "organisms": "Chloroflexi bacterium"
+    },
+    "UniRef90_A0A3D3PI77": {
+        "genes": "DIT07_13875",
+        "organisms": "Sphingobacteriaceae bacterium"
+    },
+    "UniRef90_A0A3N5TEQ0": {
+        "genes": "EHM28_00300",
+        "organisms": "Spirochaetaceae bacterium"
+    },
+    "UniRef90_A0A2V7I291": {
+        "genes": "DMD83_18725",
+        "organisms": "Candidatus Rokubacteria bacterium"
+    },
+    "UniRef90_A0A351GL28": {
+        "genes": "DCY34_00975",
+        "organisms": "Rhodobacteraceae bacterium"
+    },
+    "UniRef90_A0A382CUK4": {
+        "genes": "METZ01_LOCUS182075",
+        "organisms": "marine metagenome"
+    },
+    "UniRef90_A0A427YEH2": {
+        "genes": "EHS25_002112",
+        "organisms": "Saitozyma podzolica"
+    },
+    "UniRef90_A0A1F3ZD78": {
+        "genes": "A3H35_21555",
+        "organisms": "Betaproteobacteria bacterium RIFCSPLOWO2_02_FULL_62_17"
+    },
+    "UniRef90_A0A4V1UE86": {
+        "genes": "EOO00_05035",
+        "organisms": "Chitinophagaceae bacterium"
+    },
+    "UniRef90_A0A519XHF5": {
+        "genes": "EOO98_17385",
+        "organisms": "Pedobacter sp."
+    },
+    "UniRef90_A0A426H8J8": {
+        "genes": "EIM50_17610",
+        "organisms": "Pseudoxanthomonas sp. SGD-10"
+    },
+    "UniRef90_A0A4Q5Y3P7": {
+        "genes": "EOP49_51365",
+        "organisms": "Sphingobacteriales bacterium"
+    },
+    "UniRef90_A0A3D1E6N0": {
+        "genes": "DEQ44_04015",
+        "organisms": "Flavobacteriaceae bacterium"
+    },
+    "UniRef90_A0A2E5QAS9": {
+        "genes": "CMK60_13235",
+        "organisms": "Proteobacteria bacterium"
+    },
+    "UniRef90_A0A357YIA6": {
+        "genes": "DEB12_01655",
+        "organisms": "Porphyromonadaceae bacterium"
+    },
+    "UniRef90_A0A353VUL8": {
+        "genes": "DDX15_00355",
+        "organisms": "Gammaproteobacteria bacterium"
+    },
+    "UniRef90_A0A225UM42": {
+        "genes": "PHMEG_00036400",
+        "organisms": "Phytophthora megakarya"
+    },
+    "UniRef90_A0A2E0SIZ7": {
+        "genes": "CMJ46_05275",
+        "organisms": "Planctomyces sp."
+    },
+    "UniRef90_A0A3B9GE74": {
+        "genes": "DCG41_15395",
+        "organisms": "Verrucomicrobiales bacterium"
+    },
+    "UniRef90_A0A661F2B4": {
+        "genes": "DRQ62_13190",
+        "organisms": "Gammaproteobacteria bacterium"
+    },
+    "UniRef90_A0A358EET2": {
+        "genes": "DEB33_04525",
+        "organisms": "Gemmatimonadetes bacterium"
+    },
+    "UniRef90_A0A0B6DVU3": {
+        "genes": "DA46_1895",
+        "organisms": "Francisella tularensis subsp. holarctica"
+    },
+    "UniRef90_A0A0S7YQA1": {
+        "genes": "AMS19_13070",
+        "organisms": "Gemmatimonas sp. SG8_23"
+    },
+    "UniRef90_G4TW33": {
+        "genes": "PIIN_09509",
+        "organisms": "Serendipita indica (strain DSM 11827)|Root endophyte fungus|Piriformospora indica"
+    },
+    "UniRef90_A0A2E9UHV1": {
+        "genes": "CL669_05410",
+        "organisms": "Balneola sp."
+    },
+    "UniRef90_A0A3M1IXL0": {
+        "genes": "D6772_08205",
+        "organisms": "Bacteroidetes bacterium"
+    },
+    "UniRef90_A0A3D4Z045": {
+        "genes": "DF383_03370",
+        "organisms": "Deltaproteobacteria bacterium"
+    },
+    "UniRef90_A0A2E0FAS1": {
+        "genes": "CMB83_02430",
+        "organisms": "Flammeovirgaceae bacterium"
+    },
+    "UniRef90_A0A1B6C5B1": {
+        "genes": "g.2160",
+        "organisms": "Clastoptera arizonana|Arizona spittle bug"
+    },
+    "UniRef90_A0A352KS59": {
+        "genes": "DCZ03_16660",
+        "organisms": "Gammaproteobacteria bacterium"
+    },
+    "UniRef90_A0A1B6K595": {
+        "genes": "g.1383",
+        "organisms": "Homalodisca liturata"
+    },
+    "UniRef90_A0A3A2ZVM3": {
+        "genes": "PHISCL_00912",
+        "organisms": "Aspergillus sclerotialis"
+    },
+    "UniRef90_A0A2R6R967": {
+        "genes": "CEY00_Acc08968",
+        "organisms": "Actinidia chinensis var. chinensis|Chinese soft-hair kiwi"
+    },
+    "UniRef90_A0A176S3E0": {
+        "genes": "THIOM_001564",
+        "organisms": "Candidatus Thiomargarita nelsonii"
+    },
+    "UniRef90_A0A2E0KQH2": {
+        "genes": "CMC46_02305",
+        "organisms": "Flavobacteriaceae bacterium"
+    },
+    "UniRef90_A0A3N5P9C8": {
+        "genes": "EHM50_09600",
+        "organisms": "Xanthomonadales bacterium"
+    },
+    "UniRef90_A0A1W1E3Y5": {
+        "genes": "MNB_SUP05-SYMBIONT-7-161",
+        "organisms": "hydrothermal vent metagenome"
+    },
+    "UniRef90_A0A4P9Y5B7": {
+        "genes": "BJ684DRAFT_22610",
+        "organisms": "Piptocephalis cylindrospora"
+    },
+    "UniRef90_A0A4V1V7D5": {
+        "genes": "EON57_03910",
+        "organisms": "Alphaproteobacteria bacterium"
+    },
+    "UniRef90_A0A257MWF9": {
+        "genes": "CG439_2225",
+        "organisms": "Methylococcaceae bacterium NSP1-2"
+    },
+    "UniRef90_S8A5Y3": {
+        "genes": "H072_7914",
+        "organisms": "Dactylellina haptotyla (strain CBS 200.50)|Nematode-trapping fungus|Monacrosporium haptotylum"
+    },
+    "UniRef90_A0A5J5F903": {
+        "genes": "FN846DRAFT_930055",
+        "organisms": "Sphaerosporella brunnea"
+    },
+    "UniRef90_A0A2D5VRZ0": {
+        "genes": "CMK92_11155",
+        "organisms": "Pseudomonas sp."
+    },
+    "UniRef90_F7VXC9": {
+        "genes": "SMAC_02748",
+        "organisms": "Sordaria macrospora (strain ATCC MYA-333 / DSM 997 / K(L3346) / K-hell)"
+    },
+    "UniRef90_A0A4Q3WHI4": {
+        "genes": "EON80_26435",
+        "organisms": "bacterium"
+    },
+    "UniRef90_A0A383VG65": {
+        "genes": "BQ4739_LOCUS4462",
+        "organisms": "Tetradesmus obliquus|Green alga|Acutodesmus obliquus"
+    },
+    "UniRef90_S8CBL9": {
+        "genes": "M569_13017",
+        "organisms": "Genlisea aurea"
+    },
+    "UniRef90_A0A453RRY8": {
+        "genes": "",
+        "organisms": "Aegilops tauschii subsp. strangulata|Goatgrass"
+    },
+    "UniRef90_A0A0R2U738": {
+        "genes": "ABR96_01400",
+        "organisms": "cyanobacterium BACL30 MAG-120619-bin27"
+    },
+    "UniRef90_A0A2P5NUV9": {
+        "genes": "CTY13_05365",
+        "organisms": "Methylobacter sp."
+    },
+    "UniRef90_K2B8G0": {
+        "genes": "ACD_43C00039G0001",
+        "organisms": "uncultured bacterium"
+    },
+    "UniRef90_A0A651EH04": {
+        "genes": "EA373_12115",
+        "organisms": "Oceanospirillales bacterium"
+    },
+    "UniRef90_A0A1J5PBJ2": {
+        "genes": "ilvD_21|GALL_493670",
+        "organisms": "mine drainage metagenome"
+    },
+    "UniRef90_A0A0W8CZL5": {
+        "genes": "AM588_10002299",
+        "organisms": "Phytophthora nicotianae|Buckeye rot agent"
+    },
+    "UniRef90_A0A1D6KMD0": {
+        "genes": "100273676|ZEAMMB73_Zm00001d031929",
+        "organisms": "Zea mays|Maize"
+    },
+    "UniRef90_A0A2A5HVD2": {
+        "genes": "COA42_08410",
+        "organisms": "Alteromonadaceae bacterium"
+    },
+    "UniRef90_A0A4Q6D7I3": {
+        "genes": "EOO68_30245",
+        "organisms": "Moraxellaceae bacterium"
+    },
+    "UniRef90_A0A3B8TX87": {
+        "genes": "DCF43_07585",
+        "organisms": "Pseudomonas sp."
+    },
+    "UniRef90_A0A2M8PA79": {
+        "genes": "CUN49_15635",
+        "organisms": "Candidatus Thermofonsia Clade 1 bacterium"
+    },
+    "UniRef90_A0A519GQQ0": {
+        "genes": "EOO67_11335",
+        "organisms": "Microbacterium sp."
+    },
+    "UniRef90_A0A0C3A6L8": {
+        "genes": "QV65_26530",
+        "organisms": "Rhodococcus erythropolis|Arthrobacter picolinophilus"
+    },
+    "UniRef90_A0A259PFF9": {
+        "genes": "B7X40_08960",
+        "organisms": "Cellulomonas sp. 14-74-6"
+    },
+    "UniRef90_A0A534BHG5": {
+        "genes": "E6K45_08215",
+        "organisms": "Gammaproteobacteria bacterium"
+    },
+    "UniRef90_H0ED21": {
+        "genes": "M7I_0321",
+        "organisms": "Glarea lozoyensis (strain ATCC 74030 / MF5533)"
+    },
+    "UniRef90_A0A5C7XBU6": {
+        "genes": "E6Q57_09345",
+        "organisms": "Mycobacterium sp."
+    },
+    "UniRef90_A0A1E2WLL5": {
+        "genes": "A4S05_38195",
+        "organisms": "Nostoc sp. KVJ20"
+    },
+    "UniRef90_A0A661G0D1": {
+        "genes": "DRR11_14555",
+        "organisms": "Gammaproteobacteria bacterium"
+    },
+    "UniRef90_K0RAQ1": {
+        "genes": "THAOC_30777",
+        "organisms": "Thalassiosira oceanica|Marine diatom"
+    },
+    "UniRef90_W4VJT8": {
+        "genes": "JCM21714_2547",
+        "organisms": "Gracilibacillus boraciitolerans JCM 21714"
+    },
+    "UniRef90_A0A4Q4CLT0": {
+        "genes": "EON52_26555",
+        "organisms": "Actinomycetales bacterium"
+    },
+    "UniRef90_A0A1F8XJU3": {
+        "genes": "A2X90_08685",
+        "organisms": "Deltaproteobacteria bacterium GWA2_65_63"
+    },
+    "UniRef90_A0A3B0U573": {
+        "genes": "MNBD_ALPHA11-2398",
+        "organisms": "hydrothermal vent metagenome"
+    },
+    "UniRef90_A0A420RL55": {
+        "genes": "BFJ70_g14607",
+        "organisms": "Fusarium oxysporum|Fusarium vascular wilt"
+    },
+    "UniRef90_A0A0D9XAW2": {
+        "genes": "",
+        "organisms": "Leersia perrieri"
+    },
+    "UniRef90_A0A1W9IZE7": {
+        "genes": "BVN29_10825",
+        "organisms": "Nitrospira sp. ST-bin5"
+    },
+    "UniRef90_A0A521ZAI9": {
+        "genes": "EPO07_20490",
+        "organisms": "Verrucomicrobia bacterium"
+    },
+    "UniRef90_A0A446YG97": {
+        "genes": "TRITD_7Bv1G098890",
+        "organisms": "Triticum turgidum subsp. durum|Durum wheat|Triticum durum"
+    },
+    "UniRef90_A0A2V7PDU9": {
+        "genes": "DMD48_12225",
+        "organisms": "Gemmatimonadetes bacterium"
+    },
+    "UniRef90_A0A4Q5YQZ0": {
+        "genes": "EOP01_10975",
+        "organisms": "Propionibacteriaceae bacterium"
+    },
+    "UniRef90_A0A350AW98": {
+        "genes": "DCX06_11330",
+        "organisms": "Opitutae bacterium"
+    },
+    "UniRef90_A0A259PDT1": {
+        "genes": "B7X42_07860",
+        "organisms": "Thiomonas sp. 14-66-4"
+    },
+    "UniRef90_A0A521PGU7": {
+        "genes": "EPO51_22875",
+        "organisms": "Phenylobacterium sp."
+    },
+    "UniRef90_T1A0T0": {
+        "genes": "B2A_12374",
+        "organisms": "mine drainage metagenome"
+    },
+    "UniRef90_R7JWD8": {
+        "genes": "BN630_02006",
+        "organisms": "Blautia sp. CAG:37"
+    },
+    "UniRef90_A0A537CZ99": {
+        "genes": "E6H39_01160",
+        "organisms": "Betaproteobacteria bacterium"
+    },
+    "UniRef90_A0A3E0PM87": {
+        "genes": "DWQ40_08980",
+        "organisms": "Actinobacteria bacterium"
+    },
+    "UniRef90_A0A3M1YGB3": {
+        "genes": "D6711_01940",
+        "organisms": "Chloroflexi bacterium"
+    },
+    "UniRef90_G4TZM2": {
+        "genes": "PIIN_10752",
+        "organisms": "Serendipita indica (strain DSM 11827)|Root endophyte fungus|Piriformospora indica"
+    },
+    "UniRef90_R5QY95": {
+        "genes": "BN747_02309",
+        "organisms": "Firmicutes bacterium CAG:646"
+    },
+    "UniRef90_V7LJA5": {
+        "genes": "O972_00640",
+        "organisms": "Mycobacterium avium subsp. avium 10-9275"
+    },
+    "UniRef90_A0A497KFB7": {
+        "genes": "DRO38_05285",
+        "organisms": "Candidatus Bathyarchaeota archaeon"
+    },
+    "UniRef90_Q93QZ8": {
+        "genes": "ilvD",
+        "organisms": "Clostridioides difficile|Peptoclostridium difficile"
+    },
+    "UniRef90_A0A4T0CKX6": {
+        "genes": "D6C83_04992",
+        "organisms": "Aureobasidium pullulans|Black yeast|Pullularia pullulans"
+    },
+    "UniRef90_A0A3D1WN57": {
+        "genes": "DEV97_02925",
+        "organisms": "Lachnospiraceae bacterium"
+    },
+    "UniRef90_A0A3D2AWZ6": {
+        "genes": "DEU64_06315",
+        "organisms": "Dehalococcoidia bacterium"
+    },
+    "UniRef90_A0A520GRQ0": {
+        "genes": "EOP68_26475",
+        "organisms": "Sphingomonas sp."
+    },
+    "UniRef90_A0A3D2DQZ2": {
+        "genes": "DE316_12090",
+        "organisms": "Eubacterium sp."
+    },
+    "UniRef90_A0A357T5C3": {
+        "genes": "DEB05_14015",
+        "organisms": "Firmicutes bacterium"
+    },
+    "UniRef90_A0A2I7W2S5": {
+        "genes": "ilvD|CAB90_00213",
+        "organisms": "Mycobacterium tuberculosis"
+    },
+    "UniRef90_A0A2J6XNG6": {
+        "genes": "C0167_02860",
+        "organisms": "Nitrososphaera sp."
+    },
+    "UniRef90_A0A059WNB8": {
+        "genes": "",
+        "organisms": "uncultured bacterium"
+    },
+    "UniRef90_A0A3D0D442": {
+        "genes": "DEP84_22860",
+        "organisms": "Chloroflexi bacterium"
+    },
+    "UniRef90_A0A4Q6BEJ0": {
+        "genes": "EOP08_13335",
+        "organisms": "Proteobacteria bacterium"
+    },
+    "UniRef90_A0A485JM67": {
+        "genes": "ilvD_1|NCTC10974_05660",
+        "organisms": "Escherichia coli"
+    },
+    "UniRef90_A0A101EHR2": {
+        "genes": "XD53_0945",
+        "organisms": "Petrotoga mobilis"
+    },
+    "UniRef90_A0A1H1KZB8": {
+        "genes": "SAMN04489715_0716",
+        "organisms": "Schaalia meyeri"
+    },
+    "UniRef90_A0A149SWP0": {
+        "genes": "AD936_14675",
+        "organisms": "Gluconobacter japonicus"
+    },
+    "UniRef90_C0AS17": {
+        "genes": "PROPEN_00596",
+        "organisms": "Proteus penneri ATCC 35198"
+    },
+    "UniRef90_A0A349XPD4": {
+        "genes": "DCW88_05025",
+        "organisms": "Agrobacterium sp."
+    },
+    "UniRef90_A0A646FRM3": {
+        "genes": "F7D95_00325",
+        "organisms": "Prevotella copri"
+    },
+    "UniRef90_A0A2E8X1I3": {
+        "genes": "CL733_02280",
+        "organisms": "Chloroflexi bacterium"
+    },
+    "UniRef90_A0A533J7C7": {
+        "genes": "DI543_06145",
+        "organisms": "Bradyrhizobium icense"
+    },
+    "UniRef90_K0VXU6": {
+        "genes": "RCCGEPOP_18278",
+        "organisms": "Rhizobium sp. Pop5"
+    },
+    "UniRef90_T2RFU4": {
+        "genes": "H477_3717",
+        "organisms": "Paeniclostridium sordellii (strain ATCC 9714 / DSM 2141 / JCM 3814 / LMG 15708 / NCIMB 10717 / 211)|Clostridium sordellii"
+    },
+    "UniRef90_A0A2S6THQ5": {
+        "genes": "CFH08_02634",
+        "organisms": "Alphaproteobacteria bacterium MarineAlpha3_Bin7"
+    },
+    "UniRef90_A0A3B8PE07": {
+        "genes": "DCE35_15585",
+        "organisms": "Alcanivorax sp."
+    },
+    "UniRef90_A0A529GIE5": {
+        "genes": "E5W60_09745",
+        "organisms": "Mesorhizobium sp."
+    },
+    "UniRef90_A0A2U0N355": {
+        "genes": "B4U25_37675",
+        "organisms": "Klebsiella pneumoniae"
+    },
+    "UniRef90_A0A428NKL6": {
+        "genes": "CEP53_012812",
+        "organisms": "Fusarium sp. AF-6"
+    },
+    "UniRef90_A0A699JLZ7": {
+        "genes": "Tci_617110",
+        "organisms": "Tanacetum cinerariifolium|Dalmatian daisy|Chrysanthemum cinerariifolium"
+    },
+    "UniRef90_A0A258D0K4": {
+        "genes": "B7Z12_14380",
+        "organisms": "Caulobacter vibrioides|Caulobacter crescentus"
+    },
+    "UniRef90_D8QVM6": {
+        "genes": "SELMODRAFT_404530",
+        "organisms": "Selaginella moellendorffii|Spikemoss"
+    },
+    "UniRef90_A0A4Q3TGU0": {
+        "genes": "EOO07_20225",
+        "organisms": "Chitinophagaceae bacterium"
+    },
+    "UniRef90_A0A4Q3AWT9": {
+        "genes": "EOP55_23660",
+        "organisms": "Sphingobacteriales bacterium"
+    },
+    "UniRef90_A0A258LCW4": {
+        "genes": "B7Y76_03805",
+        "organisms": "Sphingobacteriia bacterium 35-40-5"
+    },
+    "UniRef90_A0A4Q6A6S1": {
+        "genes": "EOO14_26130",
+        "organisms": "Chitinophagaceae bacterium"
+    },
+    "UniRef90_A0A376E6T7": {
+        "genes": "ilvD_2|NCTC13533_03526",
+        "organisms": "Chryseobacterium carnipullorum"
+    },
+    "UniRef90_A0A258KN32": {
+        "genes": "B7Y76_09740",
+        "organisms": "Sphingobacteriia bacterium 35-40-5"
+    },
+    "UniRef90_A0A1E5UG90": {
+        "genes": "BHF72_1615",
+        "organisms": "Cloacibacterium normanense"
+    },
+    "UniRef90_A0A5N7ZCA0": {
+        "genes": "E2604_13500",
+        "organisms": "Flavobacterium sp."
+    },
+    "UniRef90_A0A544ZTG9": {
+        "genes": "Golomagni_07313",
+        "organisms": "Golovinomyces magnicellulatus"
+    },
+    "UniRef90_A0A3L7XWG7": {
+        "genes": "DWI62_01965",
+        "organisms": "Chloroflexi bacterium"
+    },
+    "UniRef90_A0A3D4JXK6": {
+        "genes": "DIW37_15770",
+        "organisms": "Chryseobacterium sp."
+    },
+    "UniRef90_A0A4Q3CDZ8": {
+        "genes": "EOP54_22480",
+        "organisms": "Sphingobacteriales bacterium"
+    },
+    "UniRef90_A0A061NGJ0": {
+        "genes": "JCM19037_2140",
+        "organisms": "Geomicrobium sp. JCM 19037"
+    },
+    "UniRef90_A0A3M1LPQ3": {
+        "genes": "D6765_01085",
+        "organisms": "Bacteroidetes bacterium"
+    },
+    "UniRef90_C4Y276": {
+        "genes": "CLUG_01217",
+        "organisms": "Clavispora lusitaniae (strain ATCC 42720)|Yeast|Candida lusitaniae"
+    },
+    "UniRef90_A0A0F9CW44": {
+        "genes": "LCGC14_2561740",
+        "organisms": "marine sediment metagenome"
+    },
+    "UniRef90_A0A059B1H2": {
+        "genes": "EUGRSUZ_H02826",
+        "organisms": "Eucalyptus grandis|Flooded gum"
+    },
+    "UniRef90_A0A3D4FD40": {
+        "genes": "DIV36_10715",
+        "organisms": "Verrucomicrobiales bacterium"
+    },
+    "UniRef90_A0A355BDZ6": {
+        "genes": "DDZ41_11695",
+        "organisms": "Flavobacterium sp."
+    },
+    "UniRef90_A0A090W0T0": {
+        "genes": "JCM19302_1400",
+        "organisms": "Jejuia pallidilutea"
+    },
+    "UniRef90_A0A349E8L9": {
+        "genes": "DCS33_06300",
+        "organisms": "Gammaproteobacteria bacterium"
+    },
+    "UniRef90_D7FUH0": {
+        "genes": "DAD|Esi_0027_0149",
+        "organisms": "Ectocarpus siliculosus|Brown alga|Conferva siliculosa"
+    },
+    "UniRef90_A0A2K3MBF6": {
+        "genes": "L195_g044214",
+        "organisms": "Trifolium pratense|Red clover"
+    },
+    "UniRef90_A0A4V1ZTS0": {
+        "genes": "EOO36_15850",
+        "organisms": "Cytophagaceae bacterium"
+    },
+    "UniRef90_A0A3A0VEJ2": {
+        "genes": "BUZ14_14230",
+        "organisms": "Staphylococcus gallinarum"
+    },
+    "UniRef90_A0A2E3ACK0": {
+        "genes": "CMP52_06145",
+        "organisms": "Flavobacteriales bacterium"
+    },
+    "UniRef90_A0A3B1DCY8": {
+        "genes": "MNBD_NITROSPINAE05-524",
+        "organisms": "hydrothermal vent metagenome"
+    },
+    "UniRef90_A0A368D223": {
+        "genes": "DBW79_05190",
+        "organisms": "Cryomorphaceae bacterium"
+    },
+    "UniRef90_A0A090WSZ2": {
+        "genes": "JCM19302_1401",
+        "organisms": "Jejuia pallidilutea"
+    },
+    "UniRef90_T0R423": {
+        "genes": "SDRG_02138",
+        "organisms": "Saprolegnia diclina (strain VS20)"
+    },
+    "UniRef90_A0A3T1DUE2": {
+        "genes": "HORIV_46530",
+        "organisms": "Halomonas olivaria"
+    },
+    "UniRef90_A0A257M370": {
+        "genes": "CFE26_07875",
+        "organisms": "Verrucomicrobiales bacterium VVV1"
+    },
+    "UniRef90_A0A382UW23": {
+        "genes": "METZ01_LOCUS391201",
+        "organisms": "marine metagenome"
+    },
+    "UniRef90_A0A257TMH0": {
+        "genes": "B7Z63_03545",
+        "organisms": "Ignavibacteriae bacterium 37-53-5"
+    },
+    "UniRef90_A0A382WJ62": {
+        "genes": "METZ01_LOCUS411543",
+        "organisms": "marine metagenome"
+    },
+    "UniRef90_A0A2S8BHE1": {
+        "genes": "ilvD|C1Y40_03754",
+        "organisms": "Mycobacterium talmoniae"
+    },
+    "UniRef90_A0A150G5X1": {
+        "genes": "GPECTOR_57g508",
+        "organisms": "Gonium pectorale|Green alga"
+    },
+    "UniRef90_A0A3M1GFV0": {
+        "genes": "D6781_13830",
+        "organisms": "Verrucomicrobia bacterium"
+    },
+    "UniRef90_W4Q544": {
+        "genes": "JCM9140_2528",
+        "organisms": "Bacillus wakoensis JCM 9140"
+    },
+    "UniRef90_A0A2W4PRT5": {
+        "genes": "DIU62_12150",
+        "organisms": "Proteobacteria bacterium"
+    },
+    "UniRef90_A0A382PSS6": {
+        "genes": "METZ01_LOCUS327906",
+        "organisms": "marine metagenome"
+    },
+    "UniRef90_A0A2V7ICI2": {
+        "genes": "DMD70_13470",
+        "organisms": "Gemmatimonadetes bacterium"
+    },
+    "UniRef90_A0A533ZCT5": {
+        "genes": "E6K61_08445",
+        "organisms": "Nitrospirae bacterium"
+    },
+    "UniRef90_A0A1W1DYD7": {
+        "genes": "MNB_SUP05-SYMBIONT-4-973",
+        "organisms": "hydrothermal vent metagenome"
+    },
+    "UniRef90_A0A433R0N8": {
+        "genes": "BC938DRAFT_472196",
+        "organisms": "Jimgerdemannia flammicorona"
+    },
+    "UniRef90_A0A382YBG0": {
+        "genes": "METZ01_LOCUS433467",
+        "organisms": "marine metagenome"
+    },
+    "UniRef90_A0A3M1LIN1": {
+        "genes": "D6752_04055",
+        "organisms": "Thaumarchaeota archaeon"
+    },
+    "UniRef90_T0R2B0": {
+        "genes": "SDRG_02139",
+        "organisms": "Saprolegnia diclina (strain VS20)"
+    },
+    "UniRef90_A0A0S4VMY9": {
+        "genes": "TD1301_v1_1760045",
+        "organisms": "Ralstonia solanacearum|Pseudomonas solanacearum"
+    },
+    "UniRef90_A0A257LWG3": {
+        "genes": "CFE26_19185",
+        "organisms": "Verrucomicrobiales bacterium VVV1"
+    },
+    "UniRef90_A0A533Z6E3": {
+        "genes": "E6K62_00930",
+        "organisms": "Nitrospirae bacterium"
+    },
+    "UniRef90_A0A3E1EHU6": {
+        "genes": "DUW69_001060",
+        "organisms": "Verrucomicrobia bacterium"
+    },
+    "UniRef90_A0A2E4YBD6": {
+        "genes": "CMD92_04375",
+        "organisms": "Gammaproteobacteria bacterium"
+    },
+    "UniRef90_A0A351L6W2": {
+        "genes": "DCZ55_19290",
+        "organisms": "Cyanobacteria bacterium UBA11371"
+    },
+    "UniRef90_W0ZAX0": {
+        "genes": "MIC448_520001",
+        "organisms": "Microbacterium sp. C448"
+    },
+    "UniRef90_A0A2D5PNX0": {
+        "genes": "CMQ53_03345",
+        "organisms": "Gammaproteobacteria bacterium"
+    },
+    "UniRef90_A0A1D6KMD8": {
+        "genes": "100273676|ZEAMMB73_Zm00001d031929",
+        "organisms": "Zea mays|Maize"
+    },
+    "UniRef90_A0A2T1CNL7": {
+        "genes": "C7B62_11910",
+        "organisms": "Pleurocapsa sp. CCALA 161"
+    },
+    "UniRef90_F4XQZ0": {
+        "genes": "LYNGBM3L_55550",
+        "organisms": "Moorea producens 3L"
+    },
+    "UniRef90_A0A524IDI8": {
+        "genes": "E4H29_02745",
+        "organisms": "Deltaproteobacteria bacterium"
+    },
+    "UniRef90_A0A3D5SP22": {
+        "genes": "DHU55_11675",
+        "organisms": "Blastocatellia bacterium"
+    },
+    "UniRef90_A0A350H3W1": {
+        "genes": "DCW44_03000",
+        "organisms": "Eubacterium sp."
+    },
+    "UniRef90_A0A2C9W7N6": {
+        "genes": "MANES_03G150100",
+        "organisms": "Manihot esculenta|Cassava|Jatropha manihot"
+    },
+    "UniRef90_A0A251SF95": {
+        "genes": "HannXRQ_Chr14g0435341",
+        "organisms": "Helianthus annuus|Common sunflower"
+    },
+    "UniRef90_A0A2E4KW98": {
+        "genes": "CMD66_02775",
+        "organisms": "Gammaproteobacteria bacterium"
+    },
+    "UniRef90_A0A0S7CQQ2": {
+        "genes": "AHiyo1_08190",
+        "organisms": "Arthrobacter sp. Hiyo1"
+    },
+    "UniRef90_A0A1D6KMC6": {
+        "genes": "100273676|ZEAMMB73_Zm00001d031929",
+        "organisms": "Zea mays|Maize"
+    },
+    "UniRef90_A0A359F7K8": {
+        "genes": "DEG43_15270",
+        "organisms": "Acidimicrobiaceae bacterium"
+    },
+    "UniRef90_A0A381YGF5": {
+        "genes": "METZ01_LOCUS128351",
+        "organisms": "marine metagenome"
+    },
+    "UniRef90_A0A1M9UPC3": {
+        "genes": "ilvD|SAMEA2259684_03655",
+        "organisms": "Mycobacteroides abscessus subsp. abscessus"
+    },
+    "UniRef90_A0A3N5ER90": {
+        "genes": "EHM92_07840",
+        "organisms": "bacterium"
+    },
+    "UniRef90_A0A2N0LT21": {
+        "genes": "BZY75_02895",
+        "organisms": "SAR202 cluster bacterium Io17-Chloro-G7"
+    },
+    "UniRef90_A0A536H6V8": {
+        "genes": "E6I24_05675",
+        "organisms": "Chloroflexi bacterium"
+    },
+    "UniRef90_A0A3L6MQR9": {
+        "genes": "BFJ65_g18612",
+        "organisms": "Fusarium oxysporum f. sp. cepae"
+    },
+    "UniRef90_A0A2D7TY77": {
+        "genes": "CMN43_01275",
+        "organisms": "SAR116 cluster bacterium"
+    },
+    "UniRef90_A0A101HQN6": {
+        "genes": "XD96_1187",
+        "organisms": "Petrotoga mobilis"
+    },
+    "UniRef90_A0A2R6C6E5": {
+        "genes": "B9Q04_16100",
+        "organisms": "Candidatus Marsarchaeota G2 archaeon BE_D"
+    },
+    "UniRef90_D4GCT2": {
+        "genes": "ilvD|PANA_1588",
+        "organisms": "Pantoea ananatis (strain LMG 20103)"
+    },
+    "UniRef90_X8CBR9": {
+        "genes": "I550_5405",
+        "organisms": "Mycobacterium intracellulare 1956"
+    },
+    "UniRef90_A0A2V7IF72": {
+        "genes": "DMD70_07145",
+        "organisms": "Gemmatimonadetes bacterium"
+    },
+    "UniRef90_A0A0H2UEQ1": {
+        "genes": "MAPG_09785",
+        "organisms": "Magnaporthiopsis poae (strain ATCC 64411 / 73-15)|Kentucky bluegrass fungus|Magnaporthe poae"
+    },
+    "UniRef90_E3RLI7": {
+        "genes": "PTT_09235",
+        "organisms": "Pyrenophora teres f. teres (strain 0-1)|Barley net blotch fungus|Drechslera teres f. teres"
+    },
+    "UniRef90_A0A094CWK1": {
+        "genes": "V491_01113",
+        "organisms": "Pseudogymnoascus sp. VKM F-3775"
+    },
+    "UniRef90_A0A5C9D197": {
+        "genes": "FD137_2413",
+        "organisms": "Spirochaetes bacterium"
+    },
+    "UniRef90_A0A661ZF52": {
+        "genes": "DRJ05_19040",
+        "organisms": "Bacteroidetes bacterium"
+    },
+    "UniRef90_A0A382ZJ16": {
+        "genes": "METZ01_LOCUS448124",
+        "organisms": "marine metagenome"
+    },
+    "UniRef90_A0A3C2AYJ4": {
+        "genes": "DCQ39_05610",
+        "organisms": "Lachnospiraceae bacterium"
+    },
+    "UniRef90_A0A0D2D141": {
+        "genes": "PV06_10891",
+        "organisms": "Exophiala oligosperma"
+    },
+    "UniRef90_F4N147": {
+        "genes": "YEW_JQ41480",
+        "organisms": "Yersinia enterocolitica W22703"
+    },
+    "UniRef90_G9RQQ1": {
+        "genes": "HMPREF1032_02570",
+        "organisms": "Subdoligranulum sp. 4_3_54A2FAA"
+    },
+    "UniRef90_A0A528MQL8": {
+        "genes": "E5X64_08140",
+        "organisms": "Mesorhizobium sp."
+    },
+    "UniRef90_A0A381ZIC8": {
+        "genes": "METZ01_LOCUS141436",
+        "organisms": "marine metagenome"
+    },
+    "UniRef90_A0A2T4BSB5": {
+        "genes": "M440DRAFT_1394890",
+        "organisms": "Trichoderma longibrachiatum ATCC 18648"
+    },
+    "UniRef90_X6PBQ8": {
+        "genes": "RFI_01136",
+        "organisms": "Reticulomyxa filosa"
+    },
+    "UniRef90_A0A0G4L1A7": {
+        "genes": "BN1708_002741",
+        "organisms": "Verticillium longisporum"
+    },
+    "UniRef90_A0A2T4CWB4": {
+        "genes": "C9939_04135",
+        "organisms": "Pseudidiomarina aestuarii"
+    },
+    "UniRef90_A0A097A5R3": {
+        "genes": "ilvD",
+        "organisms": "gamma proteobacterium endosymbiont of Dysmicoccus boninsis"
+    },
+    "UniRef90_A0A3E0NHB0": {
+        "genes": "DWQ15_02405",
+        "organisms": "Proteobacteria bacterium"
+    },
+    "UniRef90_A0A3B9CSW5": {
+        "genes": "DCG12_06325",
+        "organisms": "Planctomycetaceae bacterium"
+    },
+    "UniRef90_A0A5C7ZBV6": {
+        "genes": "E6Q49_10270",
+        "organisms": "Limnohabitans sp."
+    },
+    "UniRef90_X8HSP0": {
+        "genes": "HMPREF1503_0318",
+        "organisms": "Olsenella uli MSTE5"
+    },
+    "UniRef90_A0A4Q5QFI5": {
+        "genes": "EON55_27595",
+        "organisms": "Alphaproteobacteria bacterium"
+    },
+    "UniRef90_A0A3C1QZ20": {
+        "genes": "DCQ98_16840",
+        "organisms": "Planctomycetaceae bacterium"
+    },
+    "UniRef90_A0A3D4TD96": {
+        "genes": "DIW54_10450",
+        "organisms": "Chitinophagaceae bacterium"
+    },
+    "UniRef90_A0A4Q5RF28": {
+        "genes": "EOP41_09705",
+        "organisms": "Sphingobacteriaceae bacterium"
+    },
+    "UniRef90_S6EPS1": {
+        "genes": "ilvD|O9U_04480",
+        "organisms": "Lactococcus lactis subsp. lactis A12"
+    },
+    "UniRef90_A0A520HYF4": {
+        "genes": "EOO88_46845",
+        "organisms": "Pedobacter sp."
+    },
+    "UniRef90_A0A3B9NIH7": {
+        "genes": "DCG88_19990",
+        "organisms": "Sphingobacterium sp."
+    },
+    "UniRef90_A0A2M6GK47": {
+        "genes": "COW65_06640",
+        "organisms": "Cytophagales bacterium CG18_big_fil_WC_8_21_14_2_50_42_9"
+    },
+    "UniRef90_A0A4Q3EM57": {
+        "genes": "EOP42_26775",
+        "organisms": "Sphingobacteriaceae bacterium"
+    },
+    "UniRef90_A0A348TR14": {
+        "genes": "DCR46_06150",
+        "organisms": "Cytophagales bacterium"
+    },
+    "UniRef90_A0A522DTJ9": {
+        "genes": "EPN92_07990",
+        "organisms": "Chitinophagaceae bacterium"
+    },
+    "UniRef90_A0A355BDZ7": {
+        "genes": "DDZ41_11700",
+        "organisms": "Flavobacterium sp."
+    },
+    "UniRef90_A0A4Q6ANN5": {
+        "genes": "EOO14_17600",
+        "organisms": "Chitinophagaceae bacterium"
+    },
+    "UniRef90_A0A3B8ZHL4": {
+        "genes": "DCF63_12590",
+        "organisms": "Planctomycetaceae bacterium"
+    },
+    "UniRef90_X0TMW9": {
+        "genes": "S01H1_21409",
+        "organisms": "marine sediment metagenome"
+    },
+    "UniRef90_A0A383BNL2": {
+        "genes": "METZ01_LOCUS474601",
+        "organisms": "marine metagenome"
+    },
+    "UniRef90_A0A357YHX4": {
+        "genes": "DEB12_01650",
+        "organisms": "Porphyromonadaceae bacterium"
+    },
+    "UniRef90_A0A4Q3TMN2": {
+        "genes": "EOO07_17155",
+        "organisms": "Chitinophagaceae bacterium"
+    },
+    "UniRef90_A0A0S6VZF5": {
+        "genes": "U14_02333",
+        "organisms": "Candidatus Moduliflexus flocculans"
+    },
+    "UniRef90_A0A433QLM0": {
+        "genes": "BC936DRAFT_142455|BC938DRAFT_479097",
+        "organisms": "Jimgerdemannia flammicorona"
+    },
+    "UniRef90_A0A3M1KXF8": {
+        "genes": "D6765_13670",
+        "organisms": "Bacteroidetes bacterium"
+    },
+    "UniRef90_A0A4Q5SFT4": {
+        "genes": "EOP46_13970",
+        "organisms": "Sphingobacteriaceae bacterium"
+    },
+    "UniRef90_A0A3N5SP64": {
+        "genes": "EHM42_01515",
+        "organisms": "Planctomycetaceae bacterium"
+    },
+    "UniRef90_A0A3D1CJB0": {
+        "genes": "DEQ25_08055",
+        "organisms": "Methylophaga sp."
+    },
+    "UniRef90_A0A519VN98": {
+        "genes": "EOO95_16765",
+        "organisms": "Pedobacter sp."
+    },
+    "UniRef90_A0A368CZM4": {
+        "genes": "DBW79_07180",
+        "organisms": "Cryomorphaceae bacterium"
+    },
+    "UniRef90_A0A4Q3RBH4": {
+        "genes": "EOO29_11900",
+        "organisms": "Comamonadaceae bacterium"
+    },
+    "UniRef90_A0A3M1UW97": {
+        "genes": "D6725_16005",
+        "organisms": "Planctomycetes bacterium"
+    },
+    "UniRef90_A0A4V6JU58": {
+        "genes": "ilvD_4|NCTC13534_04638",
+        "organisms": "Sphingobacterium daejeonense"
+    },
+    "UniRef90_A7C1K1": {
+        "genes": "BGP_5755",
+        "organisms": "Beggiatoa sp. PS"
+    },
+    "UniRef90_A0A4Q3CB47": {
+        "genes": "EOP54_27525",
+        "organisms": "Sphingobacteriales bacterium"
+    },
+    "UniRef90_A0A2E5GV45": {
+        "genes": "CL871_03060",
+        "organisms": "Cytophagia bacterium"
+    },
+    "UniRef90_A0A519MBR9": {
+        "genes": "EOO58_04490",
+        "organisms": "Hymenobacter sp."
+    },
+    "UniRef90_A0A520HKE4": {
+        "genes": "EOO88_52555",
+        "organisms": "Pedobacter sp."
+    },
+    "UniRef90_X1JU52": {
+        "genes": "S03H2_55624",
+        "organisms": "marine sediment metagenome"
+    },
+    "UniRef90_A0A3L6VEP3": {
+        "genes": "DYB28_003023",
+        "organisms": "Aphanomyces astaci"
+    },
+    "UniRef90_A0A1Y3K1Q6": {
+        "genes": "B0W81_01540",
+        "organisms": "Prochlorococcus sp. HOT_208_60"
+    },
+    "UniRef90_A0A3D4Z062": {
+        "genes": "DF383_03365",
+        "organisms": "Deltaproteobacteria bacterium"
+    },
+    "UniRef90_A0A383CZ37": {
+        "genes": "METZ01_LOCUS490430",
+        "organisms": "marine metagenome"
+    },
+    "UniRef90_A0A3E1DYP5": {
+        "genes": "DUW69_002405",
+        "organisms": "Verrucomicrobia bacterium"
+    },
+    "UniRef90_A0A355N9I9": {
+        "genes": "DDZ92_09075",
+        "organisms": "Halomonas sp."
+    },
+    "UniRef90_A0A383VCE8": {
+        "genes": "BQ4739_LOCUS2901",
+        "organisms": "Tetradesmus obliquus|Green alga|Acutodesmus obliquus"
+    },
+    "UniRef90_X8BJA0": {
+        "genes": "I553_8278",
+        "organisms": "Mycobacterium xenopi 4042"
+    },
+    "UniRef90_A0A2E0PVG5": {
+        "genes": "CMF45_04510",
+        "organisms": "Legionellales bacterium"
+    },
+    "UniRef90_A0A2E6B2Y2": {
+        "genes": "CMQ47_02315",
+        "organisms": "Gammaproteobacteria bacterium"
+    }
+}
